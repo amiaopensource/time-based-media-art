@@ -1,6 +1,6 @@
 ## Time-based media art resources
 
-In the spirit of [analog-inspection](https://github.com/amiaopensource/analog-inspection), **time-based-media-art-resources** collects resources on the care and preservation of time-based media art.
+In the spirit of [analog-inspection](https://github.com/amiaopensource/analog-inspection), **time-based-media-art** collects resources on the care and preservation of time-based media art.
 
 ### Guidelines and Articles
 
