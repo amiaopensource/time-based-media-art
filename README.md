@@ -32,7 +32,7 @@ In the spirit of [analog-inspection](https://github.com/amiaopensource/analog-in
 * **Tate** (November 2015), [Media in Transition conference recordings](http://www.tate.org.uk/context-comment/video/media-transition)
 * **Ludwig Múzeum** (December 2015), [MAPS - Media Art Preservation Symposium](https://www.youtube.com/playlist?list=PLZCfG2Uw0zEYRknf4G6aPwm5j7PmMw0nI)
 
-#### Institutions/Organizations
+### Institutions/Organizations
 
 * **Tate**, [Conservation – time-based media
 ](http://www.tate.org.uk/about/our-work/conservation/time-based-media)
