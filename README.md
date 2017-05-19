@@ -13,7 +13,7 @@ In the spirit of [analog-inspection](https://github.com/amiaopensource/analog-in
 * **Erica Titkemeyer** (2014), [Handling Digital Assets in Time-Based Media Art
 ](https://siarchives.si.edu/blog/handling-digital-assets-time-based-media-art)
 * **Pip Laurensen** (2006), [Authenticity, Change and Loss in the Conservation of Time-Based Media Installations](http://www.tate.org.uk/research/publications/tate-papers/06/authenticity-change-and-loss-conservation-of-time-based-media-installations)
-* **Solomon R. Guggenheim Museum** (2016), [How the Guggenheim and NYU Are Conserving Computer-Based Art](https://www.guggenheim.org/blogs/checklist/how-the-guggenheim-and-nyu-are-conserving-computer-based-art-part-1) [[part II](https://www.guggenheim.org/blogs/checklist/how-the-guggenheim-and-nyu-are-conserving-computer-based-art-part-2)]
+* **Solomon R. Guggenheim Museum** (2016), [How the Guggenheim and NYU Are Conserving Computer-Based Art, part 1](https://www.guggenheim.org/blogs/checklist/how-the-guggenheim-and-nyu-are-conserving-computer-based-art-part-1) and [part II](https://www.guggenheim.org/blogs/checklist/how-the-guggenheim-and-nyu-are-conserving-computer-based-art-part-2)
 * **Smithsonian** (2014), [The Smithsonian Interview Project: Questions on Technical Standards in the Care of Time-Based and Digital Art. Ten Insights from Artists and Experts in the Field](https://www.si.edu/content/tbma/documents/SI_TBMA_10_Insights.pdf)
 
 ### Case Studies
