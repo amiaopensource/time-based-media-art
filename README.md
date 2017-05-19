@@ -2,7 +2,7 @@
 
 In the spirit of [analog-inspection](https://github.com/amiaopensource/analog-inspection), **time-based-media-art-resources** collects resources on the care and preservation of time-based media art.
 
-#### Guidelines and Articles
+### Guidelines and Articles
 
 * **Matters in Media Art** (2015), [Guidelines for the care of media artworks](http://mattersinmediaart.org/)
 * **Rafael Lozano-Hemmer** (2015), [Best practices for conservation of media art from an artist’s perspective](https://github.com/antimodular/Best-practices-for-conservation-of-media-art)
@@ -16,13 +16,13 @@ In the spirit of [analog-inspection](https://github.com/amiaopensource/analog-in
 * **Solomon R. Guggenheim Museum** (2016), [How the Guggenheim and NYU Are Conserving Computer-Based Art](https://www.guggenheim.org/blogs/checklist/how-the-guggenheim-and-nyu-are-conserving-computer-based-art-part-1) [[part II](https://www.guggenheim.org/blogs/checklist/how-the-guggenheim-and-nyu-are-conserving-computer-based-art-part-2)]
 * **Smithsonian** (2014), [The Smithsonian Interview Project: Questions on Technical Standards in the Care of Time-Based and Digital Art. Ten Insights from Artists and Experts in the Field](https://www.si.edu/content/tbma/documents/SI_TBMA_10_Insights.pdf)
 
-#### Case Studies
+### Case Studies
 
 * **Jon Ippolito** (c.2003) [Mark Napier, _net.flag_ (2002)](http://www.variablemedia.net/pdf/net_flag.pdf)
 * **Jeff Rothenberg** (2006), [Renewing _The Erl King_](http://archive.bampfa.berkeley.edu/about/ErlKingReport.pdf)
 * **Joanna Phillips, Deena Engel, Emma Dickson, & Jonathan Farbowitz** (2017), [Restoring _Brandon_, Shu Lea Cheang’s Early Web Artwork](https://www.guggenheim.org/blogs/checklist/restoring-brandon-shu-lea-cheangs-early-web-artwork)
 
-#### Conferences
+### Conferences
 
 * **Solomon R. Guggenheim Museum** (September 2010), [TechFocus I: Caring for Video Art](http://resources.conservation-us.org/techfocus/tech-i-speakers-tw/)
 * **Hirshhorn Museum and Sculpture Garden, Smithsonian Institution** (April 2012), [TechFocus II: Caring for Film and Slide Art](http://resources.conservation-us.org/techfocus/techfocus-ii-caring-for-film-and-slide-art-tw/)
@@ -41,7 +41,7 @@ In the spirit of [analog-inspection](https://github.com/amiaopensource/analog-in
 * **LIMA**, [Preserving Digital Art](http://www.li-ma.nl/site/preservation)
 * **Cornell University**, [Rose Goldsen Archive of New Media Art](http://goldsen.library.cornell.edu/index.php)
 
-#### Interviews
+### Interviews
 
 * **SCART** (2010), [Interview with Joanna Phillips (Guggenheim)](https://www.scart.be/?q=en/content/interview-joanna-phillips-guggenheim)
 * **The Signal** (2013), [Challenges in the Curation of Time Based Media Art: An Interview with Michael Mansfield](http://blogs.loc.gov/thesignal/2013/04/challenges-in-the-curation-of-time-based-media-art-an-interview-with-michael-mansfield/)
