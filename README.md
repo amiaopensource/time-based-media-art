@@ -7,15 +7,15 @@ In the spirit of [analog-inspection](https://github.com/amiaopensource/analog-in
 * **Pip Laurensen** (2006), [Authenticity, Change and Loss in the Conservation of Time-Based Media Installations](http://www.tate.org.uk/research/publications/tate-papers/06/authenticity-change-and-loss-conservation-of-time-based-media-installations)
 * **Electronic Arts Intermix** (c.2007), [EAI Online Resource Guide for Exhibiting, Collecting & Preserving Media Art](http://www.eai.org/resourceguide/home.html)
 * **Smithsonian** (May 2010), [Collaborations in Conserving Time-Based Art: A Summary of Discussion Group Sessions of a Colloquium ](https://www.si.edu/content/tbma/documents/Time-Based-Art_Report.pdf)
-* **Erica Titkemeyer** (Feb 2014), [Handling Digital Assets in Time-Based Media Art](https://siarchives.si.edu/blog/handling-digital-assets-time-based-media-art)
+* **Erica Titkemeyer** (February 2014), [Handling Digital Assets in Time-Based Media Art](https://siarchives.si.edu/blog/handling-digital-assets-time-based-media-art)
 * **Smithsonian** (July 2014), [The Smithsonian Interview Project: Questions on Technical Standards in the Care of Time-Based and Digital Art. Ten Insights from Artists and Experts in the Field](https://www.si.edu/content/tbma/documents/SI_TBMA_10_Insights.pdf)
-* **Patrícia Falcão _et al_** (Oct 2014), [Virtualisation as a Tool for the Conservation of Software-Based Artworks](http://pericles-project.eu/uploads/PERICLES_iPRES_Virtualisation-Paper_Oct14_TATE.pdf)
+* **Patrícia Falcão _et al_** (October 2014), [Virtualisation as a Tool for the Conservation of Software-Based Artworks](http://pericles-project.eu/uploads/PERICLES_iPRES_Virtualisation-Paper_Oct14_TATE.pdf)
 * **Matters in Media Art** (2015), [Guidelines for the care of media artworks](http://mattersinmediaart.org/)
-* **Rafael Lozano-Hemmer** (Sep 2015), [Best practices for conservation of media art from an artist’s perspective](https://github.com/antimodular/Best-practices-for-conservation-of-media-art)
-* **Cornell University Library** (Nov 2015), [White Paper: Preserving and Emulating Digital Art Objects](https://ecommons.cornell.edu/handle/1813/41368)
-* **Peggy Griesinger** (Nov 2015), [Metadata for the Digitization History of Time-based Media Art](http://www.amiaconference.net/wp-content/uploads/2016/01/Grisinger-Peggy.pdf)
+* **Rafael Lozano-Hemmer** (September 2015), [Best practices for conservation of media art from an artist’s perspective](https://github.com/antimodular/Best-practices-for-conservation-of-media-art)
+* **Cornell University Library** (November 2015), [White Paper: Preserving and Emulating Digital Art Objects](https://ecommons.cornell.edu/handle/1813/41368)
+* **Peggy Griesinger** (November 2015), [Metadata for the Digitization History of Time-based Media Art](http://www.amiaconference.net/wp-content/uploads/2016/01/Grisinger-Peggy.pdf)
 * **Peggy Griesinger** (Summer 2016), [Process history metadata for time-based media artworks at the Museum of Modern Art, New York](https://www.henrystewartpublications.com/sites/default/files/Griesinger.pdf)
-* **Solomon R. Guggenheim Museum** (Oct 2016), [How the Guggenheim and NYU Are Conserving Computer-Based Art, part I](https://www.guggenheim.org/blogs/checklist/how-the-guggenheim-and-nyu-are-conserving-computer-based-art-part-1) and [part II](https://www.guggenheim.org/blogs/checklist/how-the-guggenheim-and-nyu-are-conserving-computer-based-art-part-2)
+* **Solomon R. Guggenheim Museum** (October 2016), [How the Guggenheim and NYU Are Conserving Computer-Based Art, part I](https://www.guggenheim.org/blogs/checklist/how-the-guggenheim-and-nyu-are-conserving-computer-based-art-part-1) and [part II](https://www.guggenheim.org/blogs/checklist/how-the-guggenheim-and-nyu-are-conserving-computer-based-art-part-2)
 
 ### Case Studies
 
