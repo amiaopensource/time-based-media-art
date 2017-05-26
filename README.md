@@ -19,8 +19,10 @@ In the spirit of [analog-inspection](https://github.com/amiaopensource/analog-in
 
 ### Case Studies
 
-* **Jon Ippolito** (c.2003), [Mark Napier, _net.flag_ (2002)](http://www.variablemedia.net/pdf/net_flag.pdf)
+* **Jon Ippolito** (c. 2003), [Mark Napier, _net.flag_ (2002)](http://www.variablemedia.net/pdf/net_flag.pdf)
 * **Jeff Rothenberg** (2006), [Renewing _The Erl King_](http://archive.bampfa.berkeley.edu/about/ErlKingReport.pdf)
+* **Glenn Wharton** (2013), [Conserving a Nam June Paik Altered Piano, part I](https://www.moma.org/explore/inside_out/2013/04/15/conserving-a-nam-june-paik-altered-piano/) and [part II](https://www.moma.org/explore/inside_out/2013/05/08/conserving-a-nam-june-paik-altered-piano-part-2/)
+* **Lisa Adang** (2013), [Untitled Project: A cross-disciplinary investigation of JODI's _Untitled game_ ](http://media.rhizome.org/artbase/documents/Untitled-Project:-A-Cross-Disciplinary-Investigation-of-JODI%E2%80%99s-Untitled-Game.pdf)
 * **Ben Fino-Radin** (2016), [Art In the Age of Obsolescence: Rescuing an Artwork from Crumbling Technologies](https://stories.moma.org/art-in-the-age-of-obsolescence-1272f1b9b92e)
 * **Joanna Phillips, Deena Engel, Emma Dickson, & Jonathan Farbowitz** (2017), [Restoring _Brandon_, Shu Lea Cheang’s Early Web Artwork](https://www.guggenheim.org/blogs/checklist/restoring-brandon-shu-lea-cheangs-early-web-artwork)
 
