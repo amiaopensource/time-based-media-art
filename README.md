@@ -4,8 +4,8 @@ In the spirit of [analog-inspection](https://github.com/amiaopensource/analog-in
 
 ### Guidelines and Articles
 
-* **Howard Besser** (2001), [Longevity of Electronic Art
-](http://besser.tsoa.nyu.edu/howard/Papers/elect-art-longevity.html)
+* **Howard Besser** (2001), [Longevity of Electronic Art](http://besser.tsoa.nyu.edu/howard/Papers/elect-art-longevity.html)
+* **Alain Depocas, Jon Ippolito, & Caitlin Jones, eds.** (2003), [Permanence Through Change: The Variable Media Approach](http://www.variablemedia.net/pdf/Permanence.pdf)
 * **Pip Laurensen** (2006), [Authenticity, Change and Loss in the Conservation of Time-Based Media Installations](http://www.tate.org.uk/research/publications/tate-papers/06/authenticity-change-and-loss-conservation-of-time-based-media-installations)
 * **Electronic Arts Intermix** (c. 2007), [EAI Online Resource Guide for Exhibiting, Collecting & Preserving Media Art](http://www.eai.org/resourceguide/home.html)
 * **Smithsonian** (May 2010), [Collaborations in Conserving Time-Based Art: A Summary of Discussion Group Sessions of a Colloquium ](https://www.si.edu/content/tbma/documents/Time-Based-Art_Report.pdf)
@@ -22,7 +22,8 @@ In the spirit of [analog-inspection](https://github.com/amiaopensource/analog-in
 
 ### Case Studies
 
-* **Jon Ippolito** (c. 2003), [Mark Napier, _net.flag_ (2002)](http://www.variablemedia.net/pdf/net_flag.pdf)
+* **Jon Ippolito** (2003), [Mark Napier, _net.flag_ (2002)](http://www.variablemedia.net/pdf/net_flag.pdf)
+* **John G. Hanhardt** (2003), [Nam June Paik, _TV Garden_ (1974)](http://www.variablemedia.net/pdf/TV_Garden.pdf)
 * **Jeff Rothenberg** (2006), [Renewing _The Erl King_](http://archive.bampfa.berkeley.edu/about/ErlKingReport.pdf)
 * **Glenn Wharton** (2013), [Conserving a Nam June Paik Altered Piano, part I](https://www.moma.org/explore/inside_out/2013/04/15/conserving-a-nam-june-paik-altered-piano/) and [part II](https://www.moma.org/explore/inside_out/2013/05/08/conserving-a-nam-june-paik-altered-piano-part-2/)
 * **Lisa Adang** (2013), [Untitled Project: A cross-disciplinary investigation of JODI's _Untitled game_ ](http://media.rhizome.org/artbase/documents/Untitled-Project:-A-Cross-Disciplinary-Investigation-of-JODI%E2%80%99s-Untitled-Game.pdf)
@@ -31,6 +32,7 @@ In the spirit of [analog-inspection](https://github.com/amiaopensource/analog-in
 
 ### Conferences
 
+* **Solomon R. Guggenheim Museum** (March 2001), [Preserving the Immaterial: A Conference on Variable Media](http://variablemedia.net/e/preserving/html/var_pre_index.html)
 * **Solomon R. Guggenheim Museum** (September 2010), [TechFocus I: Caring for Video Art](http://resources.conservation-us.org/techfocus/tech-i-speakers-tw/)
 * **Hirshhorn Museum and Sculpture Garden, Smithsonian Institution** (April 2012), [TechFocus II: Caring for Film and Slide Art](http://resources.conservation-us.org/techfocus/techfocus-ii-caring-for-film-and-slide-art-tw/)
 * **Smithsonian American Art Museum** (June 2013), [Conserving and Exhibiting the Works of Nam June Paik](https://www.youtube.com/playlist?list=PL7gn_68Hr4h9J0BuFviZH38zN1TLztC7P)
@@ -48,7 +50,7 @@ In the spirit of [analog-inspection](https://github.com/amiaopensource/analog-in
 * **Solomon R. Guggenheim Museum**, [Conservation: Time-Based Media](https://www.guggenheim.org/conservation/time-based-media)
 * **De Stichting Behoud Moderne Kunst (SMBK)**, [The Foundation for the Conservation of Contemporary Art](http://www.sbmk.nl/over_sbmk?lang=en)
 * **Tate**, [Conservation – time-based media](http://www.tate.org.uk/about/our-work/conservation/time-based-media)
-* **Variable Media Initiative**, [Variable Media Initiative](http://www.variablemedia.net/e/welcome.html)
+* **Variable Media Network**, [Variable Media Network](http://www.variablemedia.net/e/welcome.html)
 * **ZKM | Zentrum für Kunst und Medien Karlsruhe**, [Center for Art and Media Karlsruhe](http://zkm.de/en)
 
 ### Interviews
