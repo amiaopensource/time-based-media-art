@@ -5,7 +5,6 @@ In the spirit of [analog-inspection](https://github.com/amiaopensource/analog-in
 Contributions are welcomed!
 
 ## Contents
-
 * [Guidelines and Articles](#guidelines-and-articles)
 * [Case Studies](#case-studies)
 * [Conferences](#conferences)
@@ -18,7 +17,8 @@ Contributions are welcomed!
 
 * **Howard Besser** (2001), [Longevity of Electronic Art](http://besser.tsoa.nyu.edu/howard/Papers/elect-art-longevity.html)
 * **Alain Depocas, Jon Ippolito, & Caitlin Jones, eds.** (2003), [Permanence Through Change: The Variable Media Approach](http://www.variablemedia.net/pdf/Permanence.pdf)
-* **Pip Laurensen** (2006), [Authenticity, Change and Loss in the Conservation of Time-Based Media Installations](http://www.tate.org.uk/research/publications/tate-papers/06/authenticity-change-and-loss-conservation-of-time-based-media-installations)
+* **Steve Dietz** (2005), [Collecting New Media Art: Just Like Anything Else, Only Different](http://www.neme.org/texts/collecting-new-media-art)
+* **Pip Laurenson** (2006), [Authenticity, Change and Loss in the Conservation of Time-Based Media Installations](http://www.tate.org.uk/research/publications/tate-papers/06/authenticity-change-and-loss-conservation-of-time-based-media-installations)
 * **Electronic Arts Intermix** (c. 2007), [EAI Online Resource Guide for Exhibiting, Collecting & Preserving Media Art](http://www.eai.org/resourceguide/home.html)
 * **Smithsonian** (May 2010), [Collaborations in Conserving Time-Based Art: A Summary of Discussion Group Sessions of a Colloquium ](https://www.si.edu/content/tbma/documents/Time-Based-Art_Report.pdf)
 * **Dragan Espenschied _et al._** (September 2013), [Large-Scale Curation and Presentation of CD-ROM Art](http://purl.pt/24107/1/iPres2013_PDF/Large-Scale%20Curation%20and%20Presentation%20of%20CD-ROM%20Art.pdf)
@@ -26,9 +26,10 @@ Contributions are welcomed!
 * **Smithsonian** (July 2014), [The Smithsonian Interview Project: Questions on Technical Standards in the Care of Time-Based and Digital Art. Ten Insights from Artists and Experts in the Field](https://www.si.edu/content/tbma/documents/SI_TBMA_10_Insights.pdf)
 * **Patrícia Falcão _et al._** (October 2014), [Virtualisation as a Tool for the Conservation of Software-Based Artworks](http://pericles-project.eu/uploads/PERICLES_iPRES_Virtualisation-Paper_Oct14_TATE.pdf)
 * **Matters in Media Art** (2015), [Guidelines for the care of media artworks](http://mattersinmediaart.org/)
+* **Peggy Griesinger** (May 2015), [Preserving the Technical History of Media Works](https://www.moma.org/explore/inside_out/2015/05/20/preserving-the-technical-history-of-media-works/)
 * **Rafael Lozano-Hemmer** (September 2015), [Best practices for conservation of media art from an artist’s perspective](https://github.com/antimodular/Best-practices-for-conservation-of-media-art)
 * **Cornell University Library** (November 2015), [White Paper: Preserving and Emulating Digital Art Objects](https://ecommons.cornell.edu/handle/1813/41368)
-* **Peggy Griesinger** (November 2015), [Metadata for the Digitization History of Time-based Media Art](http://www.amiaconference.net/wp-content/uploads/2016/01/Grisinger-Peggy.pdf)
+* **Peggy Griesinger** (November 2015), [Metadata for the Digitization History of Time-based Media Art](http://www.amiaconference.net/wp-content/uploads/2016/01/Grisinger-Peggy.pdf) (poster)
 * **Peggy Griesinger** (Summer 2016), [Process history metadata for time-based media artworks at the Museum of Modern Art, New York](https://www.henrystewartpublications.com/sites/default/files/Griesinger.pdf)
 * **Solomon R. Guggenheim Museum** (October 2016), [How the Guggenheim and NYU Are Conserving Computer-Based Art, part I](https://www.guggenheim.org/blogs/checklist/how-the-guggenheim-and-nyu-are-conserving-computer-based-art-part-1) and [part II](https://www.guggenheim.org/blogs/checklist/how-the-guggenheim-and-nyu-are-conserving-computer-based-art-part-2)
 
@@ -40,6 +41,7 @@ Contributions are welcomed!
 * **Glenn Wharton** (2013), [Conserving a Nam June Paik Altered Piano, part I](https://www.moma.org/explore/inside_out/2013/04/15/conserving-a-nam-june-paik-altered-piano/) and [part II](https://www.moma.org/explore/inside_out/2013/05/08/conserving-a-nam-june-paik-altered-piano-part-2/)
 * **Lisa Adang** (2013), [Untitled Project: A cross-disciplinary investigation of JODI's _Untitled game_ ](http://media.rhizome.org/artbase/documents/Untitled-Project:-A-Cross-Disciplinary-Investigation-of-JODI%E2%80%99s-Untitled-Game.pdf)
 * **Ben Fino-Radin** (2016), [Art In the Age of Obsolescence: Rescuing an Artwork from Crumbling Technologies](https://stories.moma.org/art-in-the-age-of-obsolescence-1272f1b9b92e)
+* **Eddy Colloton** (2016) [Re-constructions: Preserving the Video Installations of Buky Schwartz](http://www.nyu.edu/tisch/preservation/program/student_work/2016spring/16s_3490_Colloton_Thesis.pdf) (MIAP thesis)
 * **Joanna Phillips, Deena Engel, Emma Dickson, & Jonathan Farbowitz** (2017), [Restoring _Brandon_, Shu Lea Cheang’s Early Web Artwork](https://www.guggenheim.org/blogs/checklist/restoring-brandon-shu-lea-cheangs-early-web-artwork)
 
 ### Conferences
