@@ -28,6 +28,7 @@ Contributions are welcomed!
 * **Matters in Media Art** (2015), [Guidelines for the care of media artworks](http://mattersinmediaart.org/)
 * **Peggy Griesinger** (May 2015), [Preserving the Technical History of Media Works](https://www.moma.org/explore/inside_out/2015/05/20/preserving-the-technical-history-of-media-works/)
 * **Rafael Lozano-Hemmer** (September 2015), [Best practices for conservation of media art from an artist’s perspective](https://github.com/antimodular/Best-practices-for-conservation-of-media-art)
+* **Joanna Phillips** (2015), [Reporting Iterations: A Documentation Model for Time-Based Media Art (pp 168-177)](http://revistaharte.fcsh.unl.pt/rhaw4/RHAw4.pdf)
 * **Cornell University Library** (November 2015), [White Paper: Preserving and Emulating Digital Art Objects](https://ecommons.cornell.edu/handle/1813/41368)
 * **Peggy Griesinger** (November 2015), [Metadata for the Digitization History of Time-based Media Art](http://www.amiaconference.net/wp-content/uploads/2016/01/Grisinger-Peggy.pdf) (poster)
 * **Peggy Griesinger** (Summer 2016), [Process history metadata for time-based media artworks at the Museum of Modern Art, New York](https://www.henrystewartpublications.com/sites/default/files/Griesinger.pdf)
