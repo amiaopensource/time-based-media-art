@@ -38,6 +38,10 @@ Contributions are welcomed!
 
 * **Jon Ippolito** (2003), [Mark Napier, _net.flag_ (2002)](http://www.variablemedia.net/pdf/net_flag.pdf)
 * **John G. Hanhardt** (2003), [Nam June Paik, _TV Garden_ (1974)](http://www.variablemedia.net/pdf/TV_Garden.pdf)
+* **Vivian Van Saaze** (2003), [Miguel-Ángel Cárdenas, _25 Caramboles and variations. Birthday present for a 25-year old_ (1979/80)](http://www.nimk.nl/_files/Files/cardenas_rapport_nimk_en.pdf)
+* **Vivian Van Saaze** (2003), [eddie d, _A Word of Welcome_ (1997-2007)](http://www.nimk.nl/_files/Files/eddied_rapport_nimk_nl.pdf) (NL)
+* **Vivian Van Saaze** (2003), [Elsa Stansfield & Madelon Hooykaas, _Outside/Inside_ (1982)](http://www.nimk.nl/_files/Files/hooykaas_stansfield_nimk_nl.pdf) (NL)
+* **Vivian Van Saaze** (2003), [Servaas, _Are You Afraid of Video?_ (1984-1994)](http://www.nimk.nl/_files/Files/servaas_rapport_nimk_nl.pdf) (NL)
 * **Jeff Rothenberg** (2006), [Renewing _The Erl King_](http://archive.bampfa.berkeley.edu/about/ErlKingReport.pdf)
 * **Glenn Wharton** (2013), [Conserving a Nam June Paik Altered Piano, part I](https://www.moma.org/explore/inside_out/2013/04/15/conserving-a-nam-june-paik-altered-piano/) and [part II](https://www.moma.org/explore/inside_out/2013/05/08/conserving-a-nam-june-paik-altered-piano-part-2/)
 * **Lisa Adang** (2013), [Untitled Project: A cross-disciplinary investigation of JODI's _Untitled game_ ](http://media.rhizome.org/artbase/documents/Untitled-Project:-A-Cross-Disciplinary-Investigation-of-JODI%E2%80%99s-Untitled-Game.pdf)
@@ -48,6 +52,7 @@ Contributions are welcomed!
 ### Conferences
 
 * **Solomon R. Guggenheim Museum** (March 2001), [Preserving the Immaterial: A Conference on Variable Media](http://variablemedia.net/e/preserving/html/var_pre_index.html)
+* **medien_kunst_netz Dortmund, NIMk, and C3** (June 2003), [404 Object Not FOund. What remains of media art?](http://www.c3.hu/c3/eu_projects/hartware/kutatas.html)
 * **Solomon R. Guggenheim Museum** (September 2010), [TechFocus I: Caring for Video Art](http://resources.conservation-us.org/techfocus/tech-i-speakers-tw/)
 * **Hirshhorn Museum and Sculpture Garden, Smithsonian Institution** (April 2012), [TechFocus II: Caring for Film and Slide Art](http://resources.conservation-us.org/techfocus/techfocus-ii-caring-for-film-and-slide-art-tw/)
 * **Smithsonian American Art Museum** (June 2013), [Conserving and Exhibiting the Works of Nam June Paik](https://www.youtube.com/playlist?list=PL7gn_68Hr4h9J0BuFviZH38zN1TLztC7P)
