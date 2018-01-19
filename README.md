@@ -17,7 +17,7 @@ Contributions are welcomed!
 
 * **Howard Besser** (2001), [Longevity of Electronic Art](http://besser.tsoa.nyu.edu/howard/Papers/elect-art-longevity.html)
 * **Alain Depocas, Jon Ippolito, & Caitlin Jones, eds.** (2003), [Permanence Through Change: The Variable Media Approach](http://www.variablemedia.net/pdf/Permanence.pdf)
-* **European Commission, Culture 2000** (2004-2007), [Inside Installations: Preservation and Presentation of Installation Art. Guidelines for practice.] (http://collections.europarchive.org/rce/20120208162011/http://www.inside-installations.org/research/index.php)
+* **European Commission, Culture 2000** (2004-2007), [Inside Installations: Preservation and Presentation of Installation Art. Guidelines for practice.](http://collections.europarchive.org/rce/20120208162011/http://www.inside-installations.org/research/index.php)
 * **Steve Dietz** (2005), [Collecting New Media Art: Just Like Anything Else, Only Different](http://www.neme.org/texts/collecting-new-media-art)
 * **Pip Laurenson** (2006), [Authenticity, Change and Loss in the Conservation of Time-Based Media Installations](http://www.tate.org.uk/research/publications/tate-papers/06/authenticity-change-and-loss-conservation-of-time-based-media-installations)
 * **Electronic Arts Intermix** (c. 2007), [EAI Online Resource Guide for Exhibiting, Collecting & Preserving Media Art](http://www.eai.org/resourceguide/home.html)
@@ -43,7 +43,7 @@ Contributions are welcomed!
 * **Vivian Van Saaze** (2003), [eddie d, _A Word of Welcome_ (1997-2007)](http://www.nimk.nl/_files/Files/eddied_rapport_nimk_nl.pdf) (NL)
 * **Vivian Van Saaze** (2003), [Elsa Stansfield & Madelon Hooykaas, _Outside/Inside_ (1982)](http://www.nimk.nl/_files/Files/hooykaas_stansfield_nimk_nl.pdf) (NL)
 * **Vivian Van Saaze** (2003), [Servaas, _Are You Afraid of Video?_ (1984-1994)](http://www.nimk.nl/_files/Files/servaas_rapport_nimk_nl.pdf) (NL)
-* **European Commission, Culture 2000** (2004-2007), [Inside Installations: Preservation and Presentation of Installation Art. 33 case studies.] (http://collections.europarchive.org/rce/20120208162011/http://www.inside-installations.org/artworks/index.php)
+* **European Commission, Culture 2000** (2004-2007), [Inside Installations: Preservation and Presentation of Installation Art. 33 case studies.](http://collections.europarchive.org/rce/20120208162011/http://www.inside-installations.org/artworks/index.php)
 * **Jeff Rothenberg** (2006), [Renewing _The Erl King_](http://archive.bampfa.berkeley.edu/about/ErlKingReport.pdf)
 * **Glenn Wharton** (2013), [Conserving a Nam June Paik Altered Piano, part I](https://www.moma.org/explore/inside_out/2013/04/15/conserving-a-nam-june-paik-altered-piano/) and [part II](https://www.moma.org/explore/inside_out/2013/05/08/conserving-a-nam-june-paik-altered-piano-part-2/)
 * **Lisa Adang** (2013), [Untitled Project: A cross-disciplinary investigation of JODI's _Untitled game_ ](http://media.rhizome.org/artbase/documents/Untitled-Project:-A-Cross-Disciplinary-Investigation-of-JODI%E2%80%99s-Untitled-Game.pdf)
@@ -64,7 +64,7 @@ Contributions are welcomed!
 * **Carnegie Museum of Art** (October 2015), [Misfits Symposium 2015](https://web.archive.org/web/20160101143044/http://www.cmoa.org/Visit.aspx?id=26432)
 * **Tate** (November 2015), [Media in Transition conference recordings](http://www.tate.org.uk/context-comment/video/media-transition)
 * **Ludwig Múzeum** (December 2015), [MAPS - Media Art Preservation Symposium](https://www.youtube.com/playlist?list=PLZCfG2Uw0zEYRknf4G6aPwm5j7PmMw0nI)
-* **German Association of Conservator-Restorers (VDR)** (June 2016), [Collecting and Conserving Performance Art] (https://www.restauratoren.de/collecting-and-conserving-performance-art-videos/)
+* **German Association of Conservator-Restorers (VDR)** (June 2016), [Collecting and Conserving Performance Art](https://www.restauratoren.de/collecting-and-conserving-performance-art-videos/)
 
 ### Institutions/Organizations
 
