@@ -48,7 +48,7 @@ Contributions are welcomed!
 * **Glenn Wharton** (2013), [Conserving a Nam June Paik Altered Piano, part I](https://www.moma.org/explore/inside_out/2013/04/15/conserving-a-nam-june-paik-altered-piano/) and [part II](https://www.moma.org/explore/inside_out/2013/05/08/conserving-a-nam-june-paik-altered-piano-part-2/)
 * **Lisa Adang** (2013), [Untitled Project: A cross-disciplinary investigation of JODI's _Untitled game_ ](http://media.rhizome.org/artbase/documents/Untitled-Project:-A-Cross-Disciplinary-Investigation-of-JODI%E2%80%99s-Untitled-Game.pdf)
 * **Ben Fino-Radin** (2016), [Art In the Age of Obsolescence: Rescuing an Artwork from Crumbling Technologies](https://stories.moma.org/art-in-the-age-of-obsolescence-1272f1b9b92e)
-* **Eddy Colloton** (2016) [Re-constructions: Preserving the Video Installations of Buky Schwartz](http://www.nyu.edu/tisch/preservation/program/student_work/2016spring/16s_3490_Colloton_Thesis.pdf) (MIAP thesis)
+* **Eddy Colloton** (2016), [Re-constructions: Preserving the Video Installations of Buky Schwartz](http://www.nyu.edu/tisch/preservation/program/student_work/2016spring/16s_3490_Colloton_Thesis.pdf) (MIAP thesis)
 * **Joanna Phillips, Deena Engel, Emma Dickson, & Jonathan Farbowitz** (2017), [Restoring _Brandon_, Shu Lea Cheang’s Early Web Artwork](https://www.guggenheim.org/blogs/checklist/restoring-brandon-shu-lea-cheangs-early-web-artwork)
 
 ### Conferences
