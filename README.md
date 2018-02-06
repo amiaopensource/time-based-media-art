@@ -65,7 +65,7 @@ Contributions are welcomed!
 * **Tate** (November 2015), [Media in Transition conference recordings](http://www.tate.org.uk/context-comment/video/media-transition)
 * **Ludwig Múzeum** (December 2015), [MAPS - Media Art Preservation Symposium](https://www.youtube.com/playlist?list=PLZCfG2Uw0zEYRknf4G6aPwm5j7PmMw0nI)
 * **German Association of Conservator-Restorers (VDR)** (June 2016), [Collecting and Conserving Performance Art](https://www.restauratoren.de/collecting-and-conserving-performance-art-videos/)
-* **Institute of Fine Arts, New York University** (May 2018) [It's About Time! Building A New Discipline: Time-Based Media Art Conservation](https://www.tbmsymposium2018.com/)
+* **Institute of Fine Arts, New York University** (May 2018), [It's About Time! Building A New Discipline: Time-Based Media Art Conservation](https://www.tbmsymposium2018.com/)
 
 ### Institutions/Organizations
 
