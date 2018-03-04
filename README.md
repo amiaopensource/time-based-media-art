@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/91669658.svg)](https://zenodo.org/badge/latestdoi/91669658)
+
 # Time-based media art resources
 
 In the spirit of [analog-inspection](https://github.com/amiaopensource/analog-inspection) and [open-workflows](https://github.com/amiaopensource/open-workflows), **time-based-media-art** collects resources on the care and preservation of time-based media art.  
