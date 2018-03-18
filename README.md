@@ -12,6 +12,7 @@ Contributions are welcomed!
 * [Conferences](#conferences)
 * [Institutions/Organizations](#institutionsorganizations)
 * [Interviews](#interviews)
+* [Books](#books)
 
 ---
 
@@ -81,6 +82,16 @@ Contributions are welcomed!
 
 ### Interviews
 
+* **SCART** (2009), [Interview with artist David Claerbout](https://www.scart.be/?q=en/content/interview-david-claerbout)
+* **SCART** (2010), [Interview with Christoph Blase (ZKM)](https://www.scart.be/?q=en/content/interview-christoph-blase-zkm)
 * **SCART** (2010), [Interview with Joanna Phillips (Guggenheim)](https://www.scart.be/?q=en/content/interview-joanna-phillips-guggenheim)
 * **The Signal** (2013), [Challenges in the Curation of Time Based Media Art: An Interview with Michael Mansfield](http://blogs.loc.gov/thesignal/2013/04/challenges-in-the-curation-of-time-based-media-art-an-interview-with-michael-mansfield/)
 * **Solomon R. Guggenheim Museum** (2014), [What Is “Time-Based Media”?: A Q&A with Guggenheim Conservator Joanna Phillips, part I](https://www.guggenheim.org/blogs/checklist/what-is-time-based-media-a-q-and-a-with-guggenheim-conservator-joanna-phillips) and [part II](https://www.guggenheim.org/blogs/checklist/analog-to-digital-a-q-and-a-with-guggenheim-conservator-joanna-phillips-part-two)
+
+### Books
+
+* **Gfeller, Johannes, Agathe Jarczyk, and Joanna Phillips**, [_Compendium of Image Errors in Analogue Video / Kompendium der Bildstörungen beim analogen Video_](http://press.uchicago.edu/ucp/books/book/distributed/C/bo16943593.html). Zürich, Switzerland: Scheidegger and Spiess, August 2013.
+* **High, Kathy, Sherry Miller Hocking, and Mona Jimenez**, [_The Emergence of Video Processing Tools: Television Becoming Unglued_](https://www.intellectbooks.co.uk/books/view-Book,id=4995/). Bristol, UK: Intellect Books, April 2014.
+* **Noordegraaf, Julia, Vinzenz Hediger, Cosetta Saba, and Barbara Le Maitre**, [_Preserving and Exhibiting Media Art: Challenges and Perspectives_](http://en.aup.nl/books/9789089642912-preserving-and-exhibiting-media-art.html). Amsterdam: Amsterdam University Press, January 2013.
+* **Schubiger, Irene (ed)**, [_Reconstructing Swiss Video Art from the 1970s and 1980s_](http://www.jrp-ringier.com/pages/index.php?id_r=4&id_t=1&id_p=7&id_b=1509). Zürich, Switzerland: JRP|Ringier, September 2009.
+* **Scholte, Tatja, and Glenn Wharton (eds)**, [_Inside Installations. Theory and Practice in the Care of Complex Artworks_](https://issuu.com/incca/docs/inside_installations_theory_and_pra). Amsterdam: Amsterdam University Press, February 2011.
