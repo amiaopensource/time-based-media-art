@@ -82,11 +82,15 @@ Contributions are welcomed!
 
 ### Interviews
 
-* **SCART** (2009), [Interview with artist David Claerbout](https://www.scart.be/?q=en/content/interview-david-claerbout)
-* **SCART** (2010), [Interview with Christoph Blase (ZKM)](https://www.scart.be/?q=en/content/interview-christoph-blase-zkm)
-* **SCART** (2010), [Interview with Joanna Phillips (Guggenheim)](https://www.scart.be/?q=en/content/interview-joanna-phillips-guggenheim)
-* **The Signal** (2013), [Challenges in the Curation of Time Based Media Art: An Interview with Michael Mansfield](http://blogs.loc.gov/thesignal/2013/04/challenges-in-the-curation-of-time-based-media-art-an-interview-with-michael-mansfield/)
-* **Solomon R. Guggenheim Museum** (2014), [What Is “Time-Based Media”?: A Q&A with Guggenheim Conservator Joanna Phillips, part I](https://www.guggenheim.org/blogs/checklist/what-is-time-based-media-a-q-and-a-with-guggenheim-conservator-joanna-phillips) and [part II](https://www.guggenheim.org/blogs/checklist/analog-to-digital-a-q-and-a-with-guggenheim-conservator-joanna-phillips-part-two)
+* **SCART** (February 2009), [Interview with artist David Claerbout](https://www.scart.be/?q=en/content/interview-david-claerbout)
+* **SCART** (March 2010), [Interview with Christoph Blase (ZKM)](https://www.scart.be/?q=en/content/interview-christoph-blase-zkm)
+* **SCART** (March 2010), [Interview with Pip Laurenseon (Tate)](https://www.scart.be/?q=en/content/interview-pip-laurenson-tate)
+* **SCART** (May 2010), [Interview with Joanna Phillips (Guggenheim)](https://www.scart.be/?q=en/content/interview-joanna-phillips-guggenheim)
+* **SCART** (June 2011), [Interview with Mark Hellar (Hellar LLC)](https://www.scart.be/?q=en/oe_packed/interview-mark-hellar-hellar-llc)
+* **SCART** (July 2012), [Interview with Baruch Gottlieb, Ruth Kemper and Susanne Bernstein (transmediale)](https://www.scart.be/?q=en/content/interview-baruch-gottlieb-ruth-kemper-and-susanne-bernstein-transmediale)
+* **SCART** (February 2013), [Interview with Bartek Korzeniowski (WRO)](https://www.scart.be/?q=en/content/interview-bartek-korzeniowski-wro)
+* **The Signal** (April 2013), [Challenges in the Curation of Time Based Media Art: An Interview with Michael Mansfield](http://blogs.loc.gov/thesignal/2013/04/challenges-in-the-curation-of-time-based-media-art-an-interview-with-michael-mansfield/)
+* **Solomon R. Guggenheim Museum** (March 2014), [What Is “Time-Based Media”?: A Q&A with Guggenheim Conservator Joanna Phillips, part I](https://www.guggenheim.org/blogs/checklist/what-is-time-based-media-a-q-and-a-with-guggenheim-conservator-joanna-phillips) and [part II](https://www.guggenheim.org/blogs/checklist/analog-to-digital-a-q-and-a-with-guggenheim-conservator-joanna-phillips-part-two)
 
 ### Books
 
