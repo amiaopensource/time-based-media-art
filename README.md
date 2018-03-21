@@ -83,6 +83,8 @@ Contributions are welcomed!
 ### Interviews
 
 * **SCART** (February 2009), [Interview with artist David Claerbout](https://www.scart.be/?q=en/content/interview-david-claerbout)
+* **Richard McCoy** (August 2009), [Examining the Lives of Jenny Holzer’s Works/Words: A Discussion with SAAM Conservator Hugh Shockey](http://magazine.art21.org/2009/08/18/examining-the-lives-of-her-words/).
+* **Richard McCoy** (February 2010), [Collaborations in Conserving Time-Based Art: a Conversation and a Colloquium](http://magazine.art21.org/2010/02/16/collaborations-in-conserving-time-based-art-a-conversation-and-a-colloquium/) (interview with Jeff Martin)
 * **SCART** (March 2010), [Interview with Christoph Blase (ZKM)](https://www.scart.be/?q=en/content/interview-christoph-blase-zkm)
 * **SCART** (March 2010), [Interview with Pip Laurenseon (Tate)](https://www.scart.be/?q=en/content/interview-pip-laurenson-tate)
 * **SCART** (May 2010), [Interview with Joanna Phillips (Guggenheim)](https://www.scart.be/?q=en/content/interview-joanna-phillips-guggenheim)
@@ -91,6 +93,10 @@ Contributions are welcomed!
 * **SCART** (February 2013), [Interview with Bartek Korzeniowski (WRO)](https://www.scart.be/?q=en/content/interview-bartek-korzeniowski-wro)
 * **The Signal** (April 2013), [Challenges in the Curation of Time Based Media Art: An Interview with Michael Mansfield](http://blogs.loc.gov/thesignal/2013/04/challenges-in-the-curation-of-time-based-media-art-an-interview-with-michael-mansfield/)
 * **Solomon R. Guggenheim Museum** (March 2014), [What Is “Time-Based Media”?: A Q&A with Guggenheim Conservator Joanna Phillips, part I](https://www.guggenheim.org/blogs/checklist/what-is-time-based-media-a-q-and-a-with-guggenheim-conservator-joanna-phillips) and [part II](https://www.guggenheim.org/blogs/checklist/analog-to-digital-a-q-and-a-with-guggenheim-conservator-joanna-phillips-part-two)
+* **American Institute for Conservation** (October 2017), [Emerging Conservation Professionals Network (ECPN) Interviews: Nick Kaplan](http://www.conservators-converse.org/2017/10/ecpn-interviews-electronic-media-conservation/) (graduate fellow, Winterthur/University of Delaware Program in Art Conservation)
+* **American Institute for Conservation** (October 2017), [ECPN Interviews: Alexandra Nichols](http://www.conservators-converse.org/2017/10/ecpn-interviews-electronic-media-conservation-2/) (Sherman Fairchild Foundation Fellow in the conservation of time-based media and installation art at The Metropolitan Museum of Art)
+* **American Institute for Conservation** (November 2017), [ECPN Interviews: Brian Castriota](http://www.conservators-converse.org/2017/11/ecpn-interviews-electronic-media-conservation-4/) (TBMI conservator, Research Fellow in the Conservation of Contemporary Art at the Scottish National Gallery of Modern Art, and doctoral student at the University of Glasgow)
+* **American Institute for Conservation** (December 2017), [ECPN Interviews: Christine Frohnert](http://www.conservators-converse.org/2017/12/ecpn-interviews-electronic-media-conservation-5/) (Time-based Media Art Conservation Curriculum Development Program Coordinator, Conservation Center at the Institute of Fine Arts, New York University)
 
 ### Books
 
