@@ -9,7 +9,7 @@ Contributions are welcomed!
 ## Contents
 * [Guidelines and Articles](#guidelines-and-articles)
 * [Case Studies](#case-studies)
-* [Conferences](#conferences)
+* [Conferences and Symposia](#conferences-and-symposia)
 * [Institutions/Organizations](#institutionsorganizations)
 * [Interviews](#interviews)
 * [Books](#books)
@@ -19,12 +19,11 @@ Contributions are welcomed!
 ### Guidelines and Articles
 
 * **Howard Besser** (2001), [Longevity of Electronic Art](http://besser.tsoa.nyu.edu/howard/Papers/elect-art-longevity.html)
-* **Alain Depocas, Jon Ippolito, & Caitlin Jones, eds.** (2003), [Permanence Through Change: The Variable Media Approach](http://www.variablemedia.net/pdf/Permanence.pdf)
 * **European Commission, Culture 2000** (2004-2007), [Inside Installations: Preservation and Presentation of Installation Art. Guidelines for practice.](http://collections.europarchive.org/rce/20120208162011/http://www.inside-installations.org/research/index.php)
 * **Steve Dietz** (2005), [Collecting New Media Art: Just Like Anything Else, Only Different](http://www.neme.org/texts/collecting-new-media-art)
 * **Pip Laurenson** (2006), [Authenticity, Change and Loss in the Conservation of Time-Based Media Installations](http://www.tate.org.uk/research/publications/tate-papers/06/authenticity-change-and-loss-conservation-of-time-based-media-installations)
 * **Electronic Arts Intermix** (c. 2007), [EAI Online Resource Guide for Exhibiting, Collecting & Preserving Media Art](http://www.eai.org/resourceguide/home.html)
-* **Smithsonian** (May 2010), [Collaborations in Conserving Time-Based Art: A Summary of Discussion Group Sessions of a Colloquium ](https://www.si.edu/content/tbma/documents/Time-Based-Art_Report.pdf)
+* **Smithsonian** (May 2010), [Collaborations in Conserving Time-Based Art: A Summary of Discussion Group Sessions of a Colloquium](https://www.si.edu/content/tbma/documents/Time-Based-Art_Report.pdf)
 * **Dragan Espenschied _et al._** (September 2013), [Large-Scale Curation and Presentation of CD-ROM Art](http://purl.pt/24107/1/iPres2013_PDF/Large-Scale%20Curation%20and%20Presentation%20of%20CD-ROM%20Art.pdf)
 * **Erica Titkemeyer** (February 2014), [Handling Digital Assets in Time-Based Media Art](https://siarchives.si.edu/blog/handling-digital-assets-time-based-media-art)
 * **Smithsonian** (July 2014), [The Smithsonian Interview Project: Questions on Technical Standards in the Care of Time-Based and Digital Art. Ten Insights from Artists and Experts in the Field](https://www.si.edu/content/tbma/documents/SI_TBMA_10_Insights.pdf)
@@ -54,12 +53,15 @@ Contributions are welcomed!
 * **Eddy Colloton** (2016), [Re-constructions: Preserving the Video Installations of Buky Schwartz](http://www.nyu.edu/tisch/preservation/program/student_work/2016spring/16s_3490_Colloton_Thesis.pdf) (MIAP thesis)
 * **Joanna Phillips, Deena Engel, Emma Dickson, & Jonathan Farbowitz** (2017), [Restoring _Brandon_, Shu Lea Cheang’s Early Web Artwork](https://www.guggenheim.org/blogs/checklist/restoring-brandon-shu-lea-cheangs-early-web-artwork)
 
-### Conferences
+### Conferences and symposia
 
 * **Solomon R. Guggenheim Museum** (March 2001), [Preserving the Immaterial: A Conference on Variable Media](http://variablemedia.net/e/preserving/html/var_pre_index.html)
 * **medien_kunst_netz Dortmund, NIMk, and C3** (June 2003), [404 Object Not FOund. What remains of media art?](http://www.c3.hu/c3/eu_projects/hartware/kutatas.html)
 * **Solomon R. Guggenheim Museum** (September 2010), [TechFocus I: Caring for Video Art](http://resources.conservation-us.org/techfocus/tech-i-speakers-tw/)
+* **Smithsonian American Art Museum and National Portrait Gallery** (September 2011), [Collecting, Exhibiting, & Preserving Time-Based Media Art](https://www.si.edu/content/tbma/documents/TBMA_roundtable_090111.pdf)
 * **Hirshhorn Museum and Sculpture Garden, Smithsonian Institution** (April 2012), [TechFocus II: Caring for Film and Slide Art](http://resources.conservation-us.org/techfocus/techfocus-ii-caring-for-film-and-slide-art-tw/)
+* **Smithsonian American Art Museum and National Portrait Gallery** (September 2012), [Standards for the Preservation of Time-Based Media Art](https://www.si.edu/content/tbma/documents/TBMA_roundtable_091212.pdf)
+* **Smithsonian American Art Museum and National Portrait Gallery** (April 2013), [Trusted Digital Repositories for Time-Based Media Art](https://www.si.edu/content/tbma/documents/TBMA_Roundtable_041513.pdf)
 * **Smithsonian American Art Museum** (June 2013), [Conserving and Exhibiting the Works of Nam June Paik](https://www.youtube.com/playlist?list=PL7gn_68Hr4h9J0BuFviZH38zN1TLztC7P)
 * **Carnegie Museum of Art** (November 2013), [Misfits Symposium 2013](https://web.archive.org/web/20160101143039/http://www.cmoa.org/Visit.aspx?id=20805)
 * **Independent Media Arts Preservation (IMAP)** (June 2015), [IMAP Symposium BPAC](https://vimeo.com/132643391)
@@ -72,6 +74,7 @@ Contributions are welcomed!
 
 ### Institutions/Organizations
 
+* **American Institute for Conservation**, [Electronic Media Group](http://www.conservation-us.org/specialty-topics/electronic-media-group)
 * **Cornell University**, [Rose Goldsen Archive of New Media Art](http://goldsen.library.cornell.edu/index.php)
 * **LIMA**, [Preserving Digital Art](http://www.li-ma.nl/site/preservation)
 * **Solomon R. Guggenheim Museum**, [Conservation: Time-Based Media](https://www.guggenheim.org/conservation/time-based-media)
@@ -100,6 +103,7 @@ Contributions are welcomed!
 
 ### Books
 
+* **Depocas, Alain, Jon Ippolito, & Caitlin Jones (eds).** [_Permanence Through Change: The Variable Media Approach_](http://www.variablemedia.net/pdf/Permanence.pdf). New York: The Solomon R. Guggenheim Foundation; Montréal: The Daniel Langlois Foundation for Art, Science, and Technology, 2003.
 * **Gfeller, Johannes, Agathe Jarczyk, and Joanna Phillips**, [_Compendium of Image Errors in Analogue Video / Kompendium der Bildstörungen beim analogen Video_](http://press.uchicago.edu/ucp/books/book/distributed/C/bo16943593.html). Zürich, Switzerland: Scheidegger and Spiess, August 2013.
 * **High, Kathy, Sherry Miller Hocking, and Mona Jimenez**, [_The Emergence of Video Processing Tools: Television Becoming Unglued_](https://www.intellectbooks.co.uk/books/view-Book,id=4995/). Bristol, UK: Intellect Books, April 2014.
 * **Noordegraaf, Julia, Vinzenz Hediger, Cosetta Saba, and Barbara Le Maitre**, [_Preserving and Exhibiting Media Art: Challenges and Perspectives_](http://en.aup.nl/books/9789089642912-preserving-and-exhibiting-media-art.html). Amsterdam: Amsterdam University Press, January 2013.
