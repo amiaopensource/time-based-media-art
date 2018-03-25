@@ -23,7 +23,7 @@ Contributions are welcomed!
 * **Steve Dietz** (2005), [Collecting New Media Art: Just Like Anything Else, Only Different](http://www.neme.org/texts/collecting-new-media-art)
 * **Pip Laurenson** (2006), [Authenticity, Change and Loss in the Conservation of Time-Based Media Installations](http://www.tate.org.uk/research/publications/tate-papers/06/authenticity-change-and-loss-conservation-of-time-based-media-installations)
 * **Electronic Arts Intermix** (c. 2007), [EAI Online Resource Guide for Exhibiting, Collecting & Preserving Media Art](http://www.eai.org/resourceguide/home.html)
-* **Richard Rinehart** (2007), [The Media Art Notation System: Documenting and Preserving Digital/Media Art ](http://www.coyoteyip.com/rinehart/papers_files/leonardo_mans.pdf). _Leonardo_ 40.2, 181-187.
+* **Richard Rinehart** (2007), [The Media Art Notation System: Documenting and Preserving Digital/Media Art](http://www.coyoteyip.com/rinehart/papers_files/leonardo_mans.pdf). _Leonardo_ 40.2, 181-187.
 * **Smithsonian** (May 2010), [Collaborations in Conserving Time-Based Art: A Summary of Discussion Group Sessions of a Colloquium](https://www.si.edu/content/tbma/documents/Time-Based-Art_Report.pdf)
 * **Dragan Espenschied _et al._** (September 2013), [Large-Scale Curation and Presentation of CD-ROM Art](http://purl.pt/24107/1/iPres2013_PDF/Large-Scale%20Curation%20and%20Presentation%20of%20CD-ROM%20Art.pdf)
 * **Erica Titkemeyer** (February 2014), [Handling Digital Assets in Time-Based Media Art](https://siarchives.si.edu/blog/handling-digital-assets-time-based-media-art)
