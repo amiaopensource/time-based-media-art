@@ -23,6 +23,7 @@ Contributions are welcomed!
 * **Steve Dietz** (2005), [Collecting New Media Art: Just Like Anything Else, Only Different](http://www.neme.org/texts/collecting-new-media-art)
 * **Pip Laurenson** (2006), [Authenticity, Change and Loss in the Conservation of Time-Based Media Installations](http://www.tate.org.uk/research/publications/tate-papers/06/authenticity-change-and-loss-conservation-of-time-based-media-installations)
 * **Electronic Arts Intermix** (c. 2007), [EAI Online Resource Guide for Exhibiting, Collecting & Preserving Media Art](http://www.eai.org/resourceguide/home.html)
+* **Richard Rinehart** (2007), [The Media Art Notation System: Documenting and Preserving Digital/Media Art ](http://www.coyoteyip.com/rinehart/papers_files/leonardo_mans.pdf). _Leonardo_ 40.2, 181-187.
 * **Smithsonian** (May 2010), [Collaborations in Conserving Time-Based Art: A Summary of Discussion Group Sessions of a Colloquium](https://www.si.edu/content/tbma/documents/Time-Based-Art_Report.pdf)
 * **Dragan Espenschied _et al._** (September 2013), [Large-Scale Curation and Presentation of CD-ROM Art](http://purl.pt/24107/1/iPres2013_PDF/Large-Scale%20Curation%20and%20Presentation%20of%20CD-ROM%20Art.pdf)
 * **Erica Titkemeyer** (February 2014), [Handling Digital Assets in Time-Based Media Art](https://siarchives.si.edu/blog/handling-digital-assets-time-based-media-art)
@@ -36,6 +37,7 @@ Contributions are welcomed!
 * **Peggy Griesinger** (November 2015), [Metadata for the Digitization History of Time-based Media Art](http://www.amiaconference.net/wp-content/uploads/2016/01/Grisinger-Peggy.pdf) (poster)
 * **Peggy Griesinger** (Summer 2016), [Process history metadata for time-based media artworks at the Museum of Modern Art, New York](https://www.henrystewartpublications.com/sites/default/files/Griesinger.pdf)
 * **Solomon R. Guggenheim Museum** (October 2016), [How the Guggenheim and NYU Are Conserving Computer-Based Art, part I](https://www.guggenheim.org/blogs/checklist/how-the-guggenheim-and-nyu-are-conserving-computer-based-art-part-1) and [part II](https://www.guggenheim.org/blogs/checklist/how-the-guggenheim-and-nyu-are-conserving-computer-based-art-part-2)
+* **Hannah Peck** (December 2017), [Video as Art Medium: Context and Preservation](https://www.nyu.edu/tisch/preservation/program/student_work/2017fall/17f_1800_peck_a3_reduced.pdf) (MIAP paper)
 
 ### Case Studies
 
@@ -56,9 +58,15 @@ Contributions are welcomed!
 ### Conferences and symposia
 
 * **Solomon R. Guggenheim Museum** (March 2001), [Preserving the Immaterial: A Conference on Variable Media](http://variablemedia.net/e/preserving/html/var_pre_index.html)
+* **Experimental Television Center (ETC), Independent Media Arts Preservation (IMAP), Bay Area Video Coalition and the Electronic Media Specialty Group of the AIC** (May-June 2002), [Looking Back/Looking Forward: A Symposium on Electronic Media Preservation](http://www.experimentaltvcenter.org/looking-backlooking-forward)
 * **medien_kunst_netz Dortmund, NIMk, and C3** (June 2003), [404 Object Not FOund. What remains of media art?](http://www.c3.hu/c3/eu_projects/hartware/kutatas.html)
+* **Lunder Conservation Center & Hirshhorn Museum and Sculpture
+Garden** (March 2010), [Collaborations in Conserving Time-Based Art](https://web.archive.org/web/20170830231652/https://americanart.si.edu/conservation/video/timebased/)
+* **Harvard Art Museum** (April 2010), [Andrew W. Mellon Symposium in Conservation Science: Technical Conservation Issues of Time-Based Media](https://web.archive.org/web/20100408135507/http://www.artmuseums.harvard.edu/calendar/detail.dot?id=27621)
 * **Solomon R. Guggenheim Museum** (September 2010), [TechFocus I: Caring for Video Art](http://resources.conservation-us.org/techfocus/tech-i-speakers-tw/)
+* **ZKM | Center for Art and Media Karlsruhe** (November 2010), [Digital Art Conservation, Symposium I: The Digital Oblivion. Substance and ethics in the conservation of computer-based art](http://www.digitalartconservation.org/index.php/en/symposium-i.html)
 * **Smithsonian American Art Museum and National Portrait Gallery** (September 2011), [Collecting, Exhibiting, & Preserving Time-Based Media Art](https://www.si.edu/content/tbma/documents/TBMA_roundtable_090111.pdf)
+* **École supérieure des arts décoratifs de Strasbourg** (November 2011), [Digital Art Conservation, Symposium II: Practical Approaches. Artists, Programmers, Theorists](http://www.digitalartconservation.org/index.php/en/symposium-ii.html)
 * **Hirshhorn Museum and Sculpture Garden, Smithsonian Institution** (April 2012), [TechFocus II: Caring for Film and Slide Art](http://resources.conservation-us.org/techfocus/techfocus-ii-caring-for-film-and-slide-art-tw/)
 * **Smithsonian American Art Museum and National Portrait Gallery** (September 2012), [Standards for the Preservation of Time-Based Media Art](https://www.si.edu/content/tbma/documents/TBMA_roundtable_091212.pdf)
 * **Smithsonian American Art Museum and National Portrait Gallery** (April 2013), [Trusted Digital Repositories for Time-Based Media Art](https://www.si.edu/content/tbma/documents/TBMA_Roundtable_041513.pdf)
