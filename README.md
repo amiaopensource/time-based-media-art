@@ -18,42 +18,43 @@ Contributions are welcomed!
 
 ### Guidelines and Articles
 
-* **Howard Besser** (2001), [Longevity of Electronic Art](http://besser.tsoa.nyu.edu/howard/Papers/elect-art-longevity.html)
+* **Howard Besser** (February 2001), [Longevity of Electronic Art](http://besser.tsoa.nyu.edu/howard/Papers/elect-art-longevity.html)
 * **European Commission, Culture 2000** (2004-2007), [Inside Installations: Preservation and Presentation of Installation Art. Guidelines for practice.](http://collections.europarchive.org/rce/20120208162011/http://www.inside-installations.org/research/index.php)
-* **Steve Dietz** (2005), [Collecting New Media Art: Just Like Anything Else, Only Different](http://www.neme.org/texts/collecting-new-media-art)
-* **Pip Laurenson** (2006), [Authenticity, Change and Loss in the Conservation of Time-Based Media Installations](http://www.tate.org.uk/research/publications/tate-papers/06/authenticity-change-and-loss-conservation-of-time-based-media-installations)
+* **Pip Laurenson** (Autumn 2006), [Authenticity, Change and Loss in the Conservation of Time-Based Media Installations](http://www.tate.org.uk/research/publications/tate-papers/06/authenticity-change-and-loss-conservation-of-time-based-media-installations), _Tate Papers_ no.6.
+* **Steve Dietz** (November 2006), [Collecting New Media Art: Just Like Anything Else, Only Different](http://www.neme.org/texts/collecting-new-media-art)
 * **Electronic Arts Intermix** (c. 2007), [EAI Online Resource Guide for Exhibiting, Collecting & Preserving Media Art](http://www.eai.org/resourceguide/home.html)
-* **Richard Rinehart** (2007), [The Media Art Notation System: Documenting and Preserving Digital/Media Art](http://www.coyoteyip.com/rinehart/papers_files/leonardo_mans.pdf). _Leonardo_ 40.2, 181-187.
+* **Richard Rinehart** (April 2007), [The Media Art Notation System: Documenting and Preserving Digital/Media Art](http://www.coyoteyip.com/rinehart/papers_files/leonardo_mans.pdf). _Leonardo_ 40.2, 181-187.
 * **Smithsonian** (May 2010), [Collaborations in Conserving Time-Based Art: A Summary of Discussion Group Sessions of a Colloquium](https://www.si.edu/content/tbma/documents/Time-Based-Art_Report.pdf)
 * **Dragan Espenschied _et al._** (September 2013), [Large-Scale Curation and Presentation of CD-ROM Art](http://purl.pt/24107/1/iPres2013_PDF/Large-Scale%20Curation%20and%20Presentation%20of%20CD-ROM%20Art.pdf)
 * **Erica Titkemeyer** (February 2014), [Handling Digital Assets in Time-Based Media Art](https://siarchives.si.edu/blog/handling-digital-assets-time-based-media-art)
 * **Smithsonian** (July 2014), [The Smithsonian Interview Project: Questions on Technical Standards in the Care of Time-Based and Digital Art. Ten Insights from Artists and Experts in the Field](https://www.si.edu/content/tbma/documents/SI_TBMA_10_Insights.pdf)
 * **Patrícia Falcão _et al._** (October 2014), [Virtualisation as a Tool for the Conservation of Software-Based Artworks](http://pericles-project.eu/uploads/PERICLES_iPRES_Virtualisation-Paper_Oct14_TATE.pdf)
 * **Matters in Media Art** (2015), [Guidelines for the care of media artworks](http://mattersinmediaart.org/)
+* **Joanna Phillips** (2015), [Reporting Iterations: A Documentation Model for Time-Based Media Art](http://revistaharte.fcsh.unl.pt/rhaw4/RHAw4.pdf), _Revista de História da Arte_ 4, 169-177.
 * **Peggy Griesinger** (May 2015), [Preserving the Technical History of Media Works](https://www.moma.org/explore/inside_out/2015/05/20/preserving-the-technical-history-of-media-works/)
 * **Rafael Lozano-Hemmer** (September 2015), [Best practices for conservation of media art from an artist’s perspective](https://github.com/antimodular/Best-practices-for-conservation-of-media-art)
-* **Joanna Phillips** (2015), [Reporting Iterations: A Documentation Model for Time-Based Media Art (pp 168-177)](http://revistaharte.fcsh.unl.pt/rhaw4/RHAw4.pdf)
 * **Cornell University Library** (November 2015), [White Paper: Preserving and Emulating Digital Art Objects](https://ecommons.cornell.edu/handle/1813/41368)
 * **Peggy Griesinger** (November 2015), [Metadata for the Digitization History of Time-based Media Art](http://www.amiaconference.net/wp-content/uploads/2016/01/Grisinger-Peggy.pdf) (poster)
 * **Peggy Griesinger** (Summer 2016), [Process history metadata for time-based media artworks at the Museum of Modern Art, New York](https://www.henrystewartpublications.com/sites/default/files/Griesinger.pdf)
+* **Pip Laurenson** (September 2016), [Can Artworks Live in a Museums Collection?](https://vimeo.com/184868009) (video of lecture at MoMA)
 * **Solomon R. Guggenheim Museum** (October 2016), [How the Guggenheim and NYU Are Conserving Computer-Based Art, part I](https://www.guggenheim.org/blogs/checklist/how-the-guggenheim-and-nyu-are-conserving-computer-based-art-part-1) and [part II](https://www.guggenheim.org/blogs/checklist/how-the-guggenheim-and-nyu-are-conserving-computer-based-art-part-2)
 * **Hannah Peck** (December 2017), [Video as Art Medium: Context and Preservation](https://www.nyu.edu/tisch/preservation/program/student_work/2017fall/17f_1800_peck_a3_reduced.pdf) (MIAP paper)
 
 ### Case Studies
 
-* **Jon Ippolito** (2003), [Mark Napier, _net.flag_ (2002)](http://www.variablemedia.net/pdf/net_flag.pdf)
-* **John G. Hanhardt** (2003), [Nam June Paik, _TV Garden_ (1974)](http://www.variablemedia.net/pdf/TV_Garden.pdf)
-* **Vivian Van Saaze** (2003), [Miguel-Ángel Cárdenas, _25 Caramboles and variations. Birthday present for a 25-year old_ (1979/80)](http://www.nimk.nl/_files/Files/cardenas_rapport_nimk_en.pdf)
-* **Vivian Van Saaze** (2003), [eddie d, _A Word of Welcome_ (1997-2007)](http://www.nimk.nl/_files/Files/eddied_rapport_nimk_nl.pdf) (NL)
-* **Vivian Van Saaze** (2003), [Elsa Stansfield & Madelon Hooykaas, _Outside/Inside_ (1982)](http://www.nimk.nl/_files/Files/hooykaas_stansfield_nimk_nl.pdf) (NL)
-* **Vivian Van Saaze** (2003), [Servaas, _Are You Afraid of Video?_ (1984-1994)](http://www.nimk.nl/_files/Files/servaas_rapport_nimk_nl.pdf) (NL)
+* **John G. Hanhardt** (2003), [Nam June Paik, _TV Garden_ (1974)](http://www.variablemedia.net/pdf/TV_Garden.pdf), _Permanence Through Change: The Variable Media Approach_. New York: The Solomon R. Guggenheim Foundation; Montréal: The Daniel Langlois Foundation for Art, Science, and Technology, 70-77.
+* **Jon Ippolito** (2003), [Mark Napier, _net.flag_ (2002)](http://www.variablemedia.net/pdf/net_flag.pdf), _Permanence Through Change_, 108-115.
+* **Vivian Van Saaze** (April 2003), [Miguel-Ángel Cárdenas, _25 Caramboles and variations. Birthday present for a 25-year old_ (1979/80)](http://www.nimk.nl/_files/Files/cardenas_rapport_nimk_en.pdf)
+* **Vivian Van Saaze** (April 2003), [eddie d, _A Word of Welcome_ (1997-2007)](http://www.nimk.nl/_files/Files/eddied_rapport_nimk_nl.pdf) (NL)
+* **Vivian Van Saaze** (April 2003), [Servaas, _Are You Afraid of Video?_ (1984-1994)](http://www.nimk.nl/_files/Files/servaas_rapport_nimk_nl.pdf) (NL)
+* **Vivian Van Saaze** (May 2003), [Elsa Stansfield & Madelon Hooykaas, _Outside/Inside_ (1982)](http://www.nimk.nl/_files/Files/hooykaas_stansfield_nimk_nl.pdf) (NL)
 * **European Commission, Culture 2000** (2004-2007), [Inside Installations: Preservation and Presentation of Installation Art. 33 case studies.](http://collections.europarchive.org/rce/20120208162011/http://www.inside-installations.org/artworks/index.php)
-* **Jeff Rothenberg** (2006), [Renewing _The Erl King_](http://archive.bampfa.berkeley.edu/about/ErlKingReport.pdf)
-* **Glenn Wharton** (2013), [Conserving a Nam June Paik Altered Piano, part I](https://www.moma.org/explore/inside_out/2013/04/15/conserving-a-nam-june-paik-altered-piano/) and [part II](https://www.moma.org/explore/inside_out/2013/05/08/conserving-a-nam-june-paik-altered-piano-part-2/)
-* **Lisa Adang** (2013), [Untitled Project: A cross-disciplinary investigation of JODI's _Untitled game_](http://media.rhizome.org/artbase/documents/Untitled-Project:-A-Cross-Disciplinary-Investigation-of-JODI%E2%80%99s-Untitled-Game.pdf)
-* **Ben Fino-Radin** (2016), [Art In the Age of Obsolescence: Rescuing an Artwork from Crumbling Technologies](https://stories.moma.org/art-in-the-age-of-obsolescence-1272f1b9b92e)
-* **Eddy Colloton** (2016), [Re-constructions: Preserving the Video Installations of Buky Schwartz](http://www.nyu.edu/tisch/preservation/program/student_work/2016spring/16s_3490_Colloton_Thesis.pdf) (MIAP thesis)
-* **Joanna Phillips, Deena Engel, Emma Dickson, & Jonathan Farbowitz** (2017), [Restoring _Brandon_, Shu Lea Cheang’s Early Web Artwork](https://www.guggenheim.org/blogs/checklist/restoring-brandon-shu-lea-cheangs-early-web-artwork)
+* **Jeff Rothenberg** (January 2006), [Renewing _The Erl King_](http://archive.bampfa.berkeley.edu/about/ErlKingReport.pdf)
+* **Glenn Wharton** (April & May 2013), [Conserving a Nam June Paik Altered Piano, part I](https://www.moma.org/explore/inside_out/2013/04/15/conserving-a-nam-june-paik-altered-piano/) and [part II](https://www.moma.org/explore/inside_out/2013/05/08/conserving-a-nam-june-paik-altered-piano-part-2/)
+* **Lisa Adang** (Summer 2013), [Untitled Project: A cross-disciplinary investigation of JODI's _Untitled game_](http://media.rhizome.org/artbase/documents/Untitled-Project:-A-Cross-Disciplinary-Investigation-of-JODI%E2%80%99s-Untitled-Game.pdf)
+* **Eddy Colloton** (May 2016), [Re-constructions: Preserving the Video Installations of Buky Schwartz](http://www.nyu.edu/tisch/preservation/program/student_work/2016spring/16s_3490_Colloton_Thesis.pdf) (MIAP thesis)
+* **Ben Fino-Radin** (December 2016), [Art In the Age of Obsolescence: Rescuing an Artwork from Crumbling Technologies](https://stories.moma.org/art-in-the-age-of-obsolescence-1272f1b9b92e)
+* **Joanna Phillips, Deena Engel, Emma Dickson, & Jonathan Farbowitz** (May 2017), [Restoring _Brandon_, Shu Lea Cheang’s Early Web Artwork](https://www.guggenheim.org/blogs/checklist/restoring-brandon-shu-lea-cheangs-early-web-artwork)
 
 ### Conferences and symposia
 
