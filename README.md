@@ -18,6 +18,9 @@ Contributions are welcomed!
 
 ### Guidelines and Articles
 
+* **William A. Real** (Autumn/Winter 2001), [Toward Guidelines for Practice in the Preservation and Documentation of Technology-Based Installation Art](http://cool.conservation-us.org/jaic/articles/jaic40-03-004_indx.html), _Journal of the American Institute for Conservation (JAIC)_ 40.3, 211-231. ([@ JSTOR](https://www.jstor.org/stable/3179880))
+* **Timothy Vitale** (Autumn/Winter 2001), [Techarchaeology: Works by James Coleman and Vito Acconci](http://cool.conservation-us.org/jaic/articles/jaic40-03-005_indx.html), _JAIC_ 40.3, 233-258. ([@ JSTOR](https://www.jstor.org/stable/3179881))
+* **Pip Laurenson** (Autumn/Winter 2001), [Developing Strategies for the Conservation of Installations Incorporating Time-Based Media with Reference to Gary Hill's "Between Cinema and a Hard Place"](http://cool.conservation-us.org/jaic/articles/jaic40-03-006_indx.html), _JAIC_ 40.3, 259-266. ([@ JSTOR](https://www.jstor.org/stable/3179882))
 * **Howard Besser** (February 2001), [Longevity of Electronic Art](http://besser.tsoa.nyu.edu/howard/Papers/elect-art-longevity.html)
 * **European Commission, Culture 2000** (2004-2007), [Inside Installations: Preservation and Presentation of Installation Art. Guidelines for practice.](http://collections.europarchive.org/rce/20120208162011/http://www.inside-installations.org/research/index.php)
 * **Pip Laurenson** (Autumn 2006), [Authenticity, Change and Loss in the Conservation of Time-Based Media Installations](http://www.tate.org.uk/research/publications/tate-papers/06/authenticity-change-and-loss-conservation-of-time-based-media-installations), _Tate Papers_ no.6.
@@ -42,6 +45,8 @@ Contributions are welcomed!
 
 ### Case Studies
 
+* **Mitchell Hearns Bishop** (Autumn/Winter 2001), [Evolving Exemplary Pluralism: Steve McQueen's "Deadpan" and Eija-Liisa Ahtila's "Anne, Aki and God" - Two Case Studies for Conserving Technology-Based Installation Art](http://www.eai.org/resourceguide/collection/installation/pdf/bishop.pdf), _Journal of the American Institute for Conservation (JAIC)_ 40.3, 179-191. ([@ JSTOR](https://www.jstor.org/stable/3179878))
+* **Paul Messier** (Autumn/Winter 2001), [Dara Birnbaum's "Tiananmen Square: Break-In Transmission": A Case Study in the Examination, Documentation, and Preservation of a Video-Based Installation](http://cool.conservation-us.org/jaic/articles/jaic40-03-003_indx.html), _JAIC_ 40.3, 193-209. ([@ JSTOR](https://www.jstor.org/stable/3179879))
 * **John G. Hanhardt** (2003), [Nam June Paik, _TV Garden_ (1974)](http://www.variablemedia.net/pdf/TV_Garden.pdf), _Permanence Through Change: The Variable Media Approach_. New York: The Solomon R. Guggenheim Foundation; Montréal: The Daniel Langlois Foundation for Art, Science, and Technology, 70-77.
 * **Jon Ippolito** (2003), [Mark Napier, _net.flag_ (2002)](http://www.variablemedia.net/pdf/net_flag.pdf), _Permanence Through Change_, 108-115.
 * **Vivian Van Saaze** (April 2003), [Miguel-Ángel Cárdenas, _25 Caramboles and variations. Birthday present for a 25-year old_ (1979/80)](http://www.nimk.nl/_files/Files/cardenas_rapport_nimk_en.pdf)
@@ -58,6 +63,7 @@ Contributions are welcomed!
 
 ### Conferences and symposia
 
+* **SFMOMA** (January 2000), [TechArchaeology: A Symposium on Installation Art Preservation](http://cool.conservation-us.org/jaic/articles/jaic40-03-001_indx.html)
 * **Solomon R. Guggenheim Museum** (March 2001), [Preserving the Immaterial: A Conference on Variable Media](http://variablemedia.net/e/preserving/html/var_pre_index.html)
 * **Experimental Television Center (ETC), Independent Media Arts Preservation (IMAP), Bay Area Video Coalition and the Electronic Media Specialty Group of the AIC** (May-June 2002), [Looking Back/Looking Forward: A Symposium on Electronic Media Preservation](http://www.experimentaltvcenter.org/looking-backlooking-forward)
 * **medien_kunst_netz Dortmund, NIMk, and C3** (June 2003), [404 Object Not FOund. What remains of media art?](http://www.c3.hu/c3/eu_projects/hartware/kutatas.html)
