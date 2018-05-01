@@ -18,45 +18,57 @@ Contributions are welcomed!
 
 ### Guidelines and Articles
 
-* **Howard Besser** (2001), [Longevity of Electronic Art](http://besser.tsoa.nyu.edu/howard/Papers/elect-art-longevity.html)
+* **William A. Real** (Autumn/Winter 2001), [Toward Guidelines for Practice in the Preservation and Documentation of Technology-Based Installation Art](http://cool.conservation-us.org/jaic/articles/jaic40-03-004_indx.html), _Journal of the American Institute for Conservation (JAIC)_ 40.3, 211-231. ([@ JSTOR](https://www.jstor.org/stable/3179880))
+* **Timothy Vitale** (Autumn/Winter 2001), [Techarchaeology: Works by James Coleman and Vito Acconci](http://cool.conservation-us.org/jaic/articles/jaic40-03-005_indx.html), _JAIC_ 40.3, 233-258. ([@ JSTOR](https://www.jstor.org/stable/3179881))
+* **Pip Laurenson** (Autumn/Winter 2001), [Developing Strategies for the Conservation of Installations Incorporating Time-Based Media with Reference to Gary Hill's "Between Cinema and a Hard Place"](http://cool.conservation-us.org/jaic/articles/jaic40-03-006_indx.html), _JAIC_ 40.3, 259-266. ([@ JSTOR](https://www.jstor.org/stable/3179882))
+* **Howard Besser** (February 2001), [Longevity of Electronic Art](http://besser.tsoa.nyu.edu/howard/Papers/elect-art-longevity.html)
 * **European Commission, Culture 2000** (2004-2007), [Inside Installations: Preservation and Presentation of Installation Art. Guidelines for practice.](http://collections.europarchive.org/rce/20120208162011/http://www.inside-installations.org/research/index.php)
-* **Steve Dietz** (2005), [Collecting New Media Art: Just Like Anything Else, Only Different](http://www.neme.org/texts/collecting-new-media-art)
-* **Pip Laurenson** (2006), [Authenticity, Change and Loss in the Conservation of Time-Based Media Installations](http://www.tate.org.uk/research/publications/tate-papers/06/authenticity-change-and-loss-conservation-of-time-based-media-installations)
+* **Pip Laurenson** (Autumn 2006), [Authenticity, Change and Loss in the Conservation of Time-Based Media Installations](http://www.tate.org.uk/research/publications/tate-papers/06/authenticity-change-and-loss-conservation-of-time-based-media-installations), _Tate Papers_ no.6.
+* **Steve Dietz** (November 2006), [Collecting New Media Art: Just Like Anything Else, Only Different](http://www.neme.org/texts/collecting-new-media-art)
 * **Electronic Arts Intermix** (c. 2007), [EAI Online Resource Guide for Exhibiting, Collecting & Preserving Media Art](http://www.eai.org/resourceguide/home.html)
-* **Richard Rinehart** (2007), [The Media Art Notation System: Documenting and Preserving Digital/Media Art](http://www.coyoteyip.com/rinehart/papers_files/leonardo_mans.pdf). _Leonardo_ 40.2, 181-187.
+* **Richard Rinehart** (April 2007), [The Media Art Notation System: Documenting and Preserving Digital/Media Art](http://www.coyoteyip.com/rinehart/papers_files/leonardo_mans.pdf). _Leonardo_ 40.2, 181-187.
 * **Smithsonian** (May 2010), [Collaborations in Conserving Time-Based Art: A Summary of Discussion Group Sessions of a Colloquium](https://www.si.edu/content/tbma/documents/Time-Based-Art_Report.pdf)
 * **Dragan Espenschied _et al._** (September 2013), [Large-Scale Curation and Presentation of CD-ROM Art](http://purl.pt/24107/1/iPres2013_PDF/Large-Scale%20Curation%20and%20Presentation%20of%20CD-ROM%20Art.pdf)
 * **Erica Titkemeyer** (February 2014), [Handling Digital Assets in Time-Based Media Art](https://siarchives.si.edu/blog/handling-digital-assets-time-based-media-art)
 * **Smithsonian** (July 2014), [The Smithsonian Interview Project: Questions on Technical Standards in the Care of Time-Based and Digital Art. Ten Insights from Artists and Experts in the Field](https://www.si.edu/content/tbma/documents/SI_TBMA_10_Insights.pdf)
 * **Patrícia Falcão _et al._** (October 2014), [Virtualisation as a Tool for the Conservation of Software-Based Artworks](http://pericles-project.eu/uploads/PERICLES_iPRES_Virtualisation-Paper_Oct14_TATE.pdf)
 * **Matters in Media Art** (2015), [Guidelines for the care of media artworks](http://mattersinmediaart.org/)
+* **Joanna Phillips** (2015), [Reporting Iterations: A Documentation Model for Time-Based Media Art](http://revistaharte.fcsh.unl.pt/rhaw4/RHAw4.pdf), _Revista de História da Arte_ 4, 169-177.
 * **Peggy Griesinger** (May 2015), [Preserving the Technical History of Media Works](https://www.moma.org/explore/inside_out/2015/05/20/preserving-the-technical-history-of-media-works/)
 * **Rafael Lozano-Hemmer** (September 2015), [Best practices for conservation of media art from an artist’s perspective](https://github.com/antimodular/Best-practices-for-conservation-of-media-art)
-* **Joanna Phillips** (2015), [Reporting Iterations: A Documentation Model for Time-Based Media Art (pp 168-177)](http://revistaharte.fcsh.unl.pt/rhaw4/RHAw4.pdf)
 * **Cornell University Library** (November 2015), [White Paper: Preserving and Emulating Digital Art Objects](https://ecommons.cornell.edu/handle/1813/41368)
 * **Peggy Griesinger** (November 2015), [Metadata for the Digitization History of Time-based Media Art](http://www.amiaconference.net/wp-content/uploads/2016/01/Grisinger-Peggy.pdf) (poster)
+* **Colin Post** (March 2016), [Research Reflections: Preservation of New Media Artworks in the Care of the Artist](http://artiststudioarchives.org/2016/03/07/research-reflections-preservation-of-new-media-artworks-in-the-care-of-the-artist/)
 * **Peggy Griesinger** (Summer 2016), [Process history metadata for time-based media artworks at the Museum of Modern Art, New York](https://www.henrystewartpublications.com/sites/default/files/Griesinger.pdf)
+* **Pip Laurenson** (September 2016), [Can Artworks Live in a Museums Collection?](https://vimeo.com/184868009) (video of lecture at MoMA)
 * **Solomon R. Guggenheim Museum** (October 2016), [How the Guggenheim and NYU Are Conserving Computer-Based Art, part I](https://www.guggenheim.org/blogs/checklist/how-the-guggenheim-and-nyu-are-conserving-computer-based-art-part-1) and [part II](https://www.guggenheim.org/blogs/checklist/how-the-guggenheim-and-nyu-are-conserving-computer-based-art-part-2)
+* **Colin Post** (2017), [Preservation practices of new media artists: Challenges, strategies, and attitudes in the personal management of artworks](https://doi.org/10.1108/JD-09-2016-0116), _Journal of Documentation_, 73.4, 716-732. (paywalled)
 * **Hannah Peck** (December 2017), [Video as Art Medium: Context and Preservation](https://www.nyu.edu/tisch/preservation/program/student_work/2017fall/17f_1800_peck_a3_reduced.pdf) (MIAP paper)
 
 ### Case Studies
 
-* **Jon Ippolito** (2003), [Mark Napier, _net.flag_ (2002)](http://www.variablemedia.net/pdf/net_flag.pdf)
-* **John G. Hanhardt** (2003), [Nam June Paik, _TV Garden_ (1974)](http://www.variablemedia.net/pdf/TV_Garden.pdf)
-* **Vivian Van Saaze** (2003), [Miguel-Ángel Cárdenas, _25 Caramboles and variations. Birthday present for a 25-year old_ (1979/80)](http://www.nimk.nl/_files/Files/cardenas_rapport_nimk_en.pdf)
-* **Vivian Van Saaze** (2003), [eddie d, _A Word of Welcome_ (1997-2007)](http://www.nimk.nl/_files/Files/eddied_rapport_nimk_nl.pdf) (NL)
-* **Vivian Van Saaze** (2003), [Elsa Stansfield & Madelon Hooykaas, _Outside/Inside_ (1982)](http://www.nimk.nl/_files/Files/hooykaas_stansfield_nimk_nl.pdf) (NL)
-* **Vivian Van Saaze** (2003), [Servaas, _Are You Afraid of Video?_ (1984-1994)](http://www.nimk.nl/_files/Files/servaas_rapport_nimk_nl.pdf) (NL)
+* **Bill Viola** (April 2001), [Artist's Description: _Anima_ (2000)](http://www.eai.org/resourceguide/preservation/installation/pdf/ViolaArtistsDescription.pdf)
+* **Mitchell Hearns Bishop** (Autumn/Winter 2001), [Evolving Exemplary Pluralism: Steve McQueen's "Deadpan" and Eija-Liisa Ahtila's "Anne, Aki and God" - Two Case Studies for Conserving Technology-Based Installation Art](http://www.eai.org/resourceguide/collection/installation/pdf/bishop.pdf), _Journal of the American Institute for Conservation (JAIC)_ 40.3, 179-191. ([@ JSTOR](https://www.jstor.org/stable/3179878))
+* **Paul Messier** (Autumn/Winter 2001), [Dara Birnbaum's "Tiananmen Square: Break-In Transmission": A Case Study in the Examination, Documentation, and Preservation of a Video-Based Installation](http://cool.conservation-us.org/jaic/articles/jaic40-03-003_indx.html), _JAIC_ 40.3, 193-209. ([@ JSTOR](https://www.jstor.org/stable/3179879))
+* **John G. Hanhardt** (2003), [Nam June Paik, _TV Garden_ (1974)](http://www.variablemedia.net/pdf/TV_Garden.pdf), _Permanence Through Change: The Variable Media Approach_. New York: The Solomon R. Guggenheim Foundation; Montréal: The Daniel Langlois Foundation for Art, Science, and Technology, 70-77.
+* **Jon Ippolito** (2003), [Mark Napier, _net.flag_ (2002)](http://www.variablemedia.net/pdf/net_flag.pdf), _Permanence Through Change_, 108-115.
+* **Vivian Van Saaze** (April 2003), [Miguel-Ángel Cárdenas, _25 Caramboles and variations. Birthday present for a 25-year old_ (1979/80)](http://www.nimk.nl/_files/Files/cardenas_rapport_nimk_en.pdf)
+* **Vivian Van Saaze** (April 2003), [eddie d, _A Word of Welcome_ (1997-2007)](http://www.nimk.nl/_files/Files/eddied_rapport_nimk_nl.pdf) (NL)
+* **Vivian Van Saaze** (April 2003), [Servaas, _Are You Afraid of Video?_ (1984-1994)](http://www.nimk.nl/_files/Files/servaas_rapport_nimk_nl.pdf) (NL)
+* **Vivian Van Saaze** (May 2003), [Elsa Stansfield & Madelon Hooykaas, _Outside/Inside_ (1982)](http://www.nimk.nl/_files/Files/hooykaas_stansfield_nimk_nl.pdf) (NL)
 * **European Commission, Culture 2000** (2004-2007), [Inside Installations: Preservation and Presentation of Installation Art. 33 case studies.](http://collections.europarchive.org/rce/20120208162011/http://www.inside-installations.org/artworks/index.php)
-* **Jeff Rothenberg** (2006), [Renewing _The Erl King_](http://archive.bampfa.berkeley.edu/about/ErlKingReport.pdf)
-* **Glenn Wharton** (2013), [Conserving a Nam June Paik Altered Piano, part I](https://www.moma.org/explore/inside_out/2013/04/15/conserving-a-nam-june-paik-altered-piano/) and [part II](https://www.moma.org/explore/inside_out/2013/05/08/conserving-a-nam-june-paik-altered-piano-part-2/)
-* **Lisa Adang** (2013), [Untitled Project: A cross-disciplinary investigation of JODI's _Untitled game_ ](http://media.rhizome.org/artbase/documents/Untitled-Project:-A-Cross-Disciplinary-Investigation-of-JODI%E2%80%99s-Untitled-Game.pdf)
-* **Ben Fino-Radin** (2016), [Art In the Age of Obsolescence: Rescuing an Artwork from Crumbling Technologies](https://stories.moma.org/art-in-the-age-of-obsolescence-1272f1b9b92e)
-* **Eddy Colloton** (2016), [Re-constructions: Preserving the Video Installations of Buky Schwartz](http://www.nyu.edu/tisch/preservation/program/student_work/2016spring/16s_3490_Colloton_Thesis.pdf) (MIAP thesis)
-* **Joanna Phillips, Deena Engel, Emma Dickson, & Jonathan Farbowitz** (2017), [Restoring _Brandon_, Shu Lea Cheang’s Early Web Artwork](https://www.guggenheim.org/blogs/checklist/restoring-brandon-shu-lea-cheangs-early-web-artwork)
+* **Jeff Rothenberg** (January 2006), [Renewing _The Erl King_](http://archive.bampfa.berkeley.edu/about/ErlKingReport.pdf)
+* **Christoph Becker, Günther Kolar, Josef Küng, and Andreas Rauber** (December 2007), [Preserving Interactive Multimedia Art: A Case Study in Preservation Planning](https://publik.tuwien.ac.at/files/pub-inf_5204.pdf), _Asian Digital Libraries. Looking Back 10 Years and Forging New Frontiers: 10th International Conference on Asian Digital Libraries_. Proceedings of ICADL 2007, Hanoi, Vietnam, 10-13 December 2007, 257-266.
+* **ZKM | Center for Art and Media Karlsruhe** (2010-2012), [digital art conservation: 10 case studies](http://www.digitalartconservation.org/index.php/en/case-studies.html)
+* **Glenn Wharton** (April & May 2013), [Conserving a Nam June Paik Altered Piano, part I](https://www.moma.org/explore/inside_out/2013/04/15/conserving-a-nam-june-paik-altered-piano/) and [part II](https://www.moma.org/explore/inside_out/2013/05/08/conserving-a-nam-june-paik-altered-piano-part-2/)
+* **Lisa Adang** (Summer 2013), [Untitled Project: A cross-disciplinary investigation of JODI's _Untitled game_](http://media.rhizome.org/artbase/documents/Untitled-Project:-A-Cross-Disciplinary-Investigation-of-JODI%E2%80%99s-Untitled-Game.pdf)
+* **Eddy Colloton** (May 2016), [Re-constructions: Preserving the Video Installations of Buky Schwartz](http://www.nyu.edu/tisch/preservation/program/student_work/2016spring/16s_3490_Colloton_Thesis.pdf) (MIAP thesis)
+* **Ben Fino-Radin** (December 2016), [Art In the Age of Obsolescence: Rescuing an Artwork from Crumbling Technologies](https://stories.moma.org/art-in-the-age-of-obsolescence-1272f1b9b92e)
+* **Joanna Phillips, Deena Engel, Emma Dickson, & Jonathan Farbowitz** (May 2017), [Restoring _Brandon_, Shu Lea Cheang’s Early Web Artwork](https://www.guggenheim.org/blogs/checklist/restoring-brandon-shu-lea-cheangs-early-web-artwork)
 
 ### Conferences and symposia
 
+* **SFMOMA** (January 2000), [TechArchaeology: A Symposium on Installation Art Preservation](http://cool.conservation-us.org/jaic/articles/jaic40-03-001_indx.html)
 * **Solomon R. Guggenheim Museum** (March 2001), [Preserving the Immaterial: A Conference on Variable Media](http://variablemedia.net/e/preserving/html/var_pre_index.html)
 * **Experimental Television Center (ETC), Independent Media Arts Preservation (IMAP), Bay Area Video Coalition and the Electronic Media Specialty Group of the AIC** (May-June 2002), [Looking Back/Looking Forward: A Symposium on Electronic Media Preservation](http://www.experimentaltvcenter.org/looking-backlooking-forward)
 * **medien_kunst_netz Dortmund, NIMk, and C3** (June 2003), [404 Object Not FOund. What remains of media art?](http://www.c3.hu/c3/eu_projects/hartware/kutatas.html)
@@ -64,9 +76,9 @@ Contributions are welcomed!
 Garden** (March 2010), [Collaborations in Conserving Time-Based Art](https://web.archive.org/web/20170830231652/https://americanart.si.edu/conservation/video/timebased/)
 * **Harvard Art Museum** (April 2010), [Andrew W. Mellon Symposium in Conservation Science: Technical Conservation Issues of Time-Based Media](https://web.archive.org/web/20100408135507/http://www.artmuseums.harvard.edu/calendar/detail.dot?id=27621)
 * **Solomon R. Guggenheim Museum** (September 2010), [TechFocus I: Caring for Video Art](http://resources.conservation-us.org/techfocus/tech-i-speakers-tw/)
-* **ZKM | Center for Art and Media Karlsruhe** (November 2010), [Digital Art Conservation, Symposium I: The Digital Oblivion. Substance and ethics in the conservation of computer-based art](http://www.digitalartconservation.org/index.php/en/symposium-i.html)
+* **ZKM | Center for Art and Media Karlsruhe** (November 2010), [_digital art conservation_, Symposium I: The Digital Oblivion. Substance and ethics in the conservation of computer-based art](http://www.digitalartconservation.org/index.php/en/symposium-i.html)
 * **Smithsonian American Art Museum and National Portrait Gallery** (September 2011), [Collecting, Exhibiting, & Preserving Time-Based Media Art](https://www.si.edu/content/tbma/documents/TBMA_roundtable_090111.pdf)
-* **École supérieure des arts décoratifs de Strasbourg** (November 2011), [Digital Art Conservation, Symposium II: Practical Approaches. Artists, Programmers, Theorists](http://www.digitalartconservation.org/index.php/en/symposium-ii.html)
+* **École supérieure des arts décoratifs de Strasbourg** (November 2011), [_digital art conservation_, Symposium II: Practical Approaches. Artists, Programmers, Theorists](http://www.digitalartconservation.org/index.php/en/symposium-ii.html)
 * **Hirshhorn Museum and Sculpture Garden, Smithsonian Institution** (April 2012), [TechFocus II: Caring for Film and Slide Art](http://resources.conservation-us.org/techfocus/techfocus-ii-caring-for-film-and-slide-art-tw/)
 * **Smithsonian American Art Museum and National Portrait Gallery** (September 2012), [Standards for the Preservation of Time-Based Media Art](https://www.si.edu/content/tbma/documents/TBMA_roundtable_091212.pdf)
 * **Smithsonian American Art Museum and National Portrait Gallery** (April 2013), [Trusted Digital Repositories for Time-Based Media Art](https://www.si.edu/content/tbma/documents/TBMA_Roundtable_041513.pdf)
@@ -84,15 +96,27 @@ Garden** (March 2010), [Collaborations in Conserving Time-Based Art](https://web
 
 * **American Institute for Conservation**, [Electronic Media Group](http://www.conservation-us.org/specialty-topics/electronic-media-group)
 * **Cornell University**, [Rose Goldsen Archive of New Media Art](http://goldsen.library.cornell.edu/index.php)
+* [**Electronic Arts Intermix**](http://www.eai.org/) (EAI)
+* [**International Network for the Conservation of Contemporary Art**](https://www.incca.org/) (INCCA)
+* [**Independent Media Arts Preservation, Inc**](https://web.archive.org/web/20170912202537/http://imappreserve.org/) (IMAP)
 * **LIMA**, [Preserving Digital Art](http://www.li-ma.nl/site/preservation)
 * **Solomon R. Guggenheim Museum**, [Conservation: Time-Based Media](https://www.guggenheim.org/conservation/time-based-media)
 * **De Stichting Behoud Moderne Kunst (SMBK)**, [The Foundation for the Conservation of Contemporary Art](http://www.sbmk.nl/over_sbmk?lang=en)
 * **Tate**, [Conservation – time-based media](http://www.tate.org.uk/about/our-work/conservation/time-based-media)
-* **Variable Media Network**, [Variable Media Network](http://www.variablemedia.net/e/welcome.html)
+* [**Variable Media Network**](http://www.variablemedia.net/e/welcome.html)
 * **ZKM | Zentrum für Kunst und Medien Karlsruhe**, [Center for Art and Media Karlsruhe](http://zkm.de/en)
 
 ### Interviews
 
+* **Electronic Arts Intermix (EAI)** (August 2005), [Conversation with artist Cory Arcangel](http://www.eai.org/resourceguide/exhibition/installation/interview_arcangel.html)
+* **EAI** (August 2005), [Interview with Berta Sichel (Reina Sofía)](http://www.eai.org/resourceguide/exhibition/singlechannel/interview_sichel.html)
+* **EAI** (September 2005), [Interview with Christopher Eamon (New Art Trust, Kramlich Collection)](http://www.eai.org/resourceguide/exhibition/installation/interview_eamon.html)
+* **EAI** (November 2005), [Interview with artist Chris Doyle](http://www.eai.org/resourceguide/preservation/computer/interview_doyle.html)
+* **EAI** (c.2006), [Interview with Juliet Myers (studio manager for Bruce Nauman)](http://www.eai.org/resourceguide/exhibition/singlechannel/interview_myers.html)
+* **EAI** (Spring 2006), [Interview with Steve Seid (Pacific Film Archive)](http://www.eai.org/resourceguide/exhibition/singlechannel/interview_seid.html)
+* **EAI** (April 2006), [Interview with Glenn Wharton (MoMA, NYU)](http://www.eai.org/resourceguide/preservation/installation/interview_wharton.html)
+* **EAI** (May 2006), [Interview with Kira Perov (executive director, Bill Viola Studio)](http://www.eai.org/resourceguide/preservation/installation/interview_perov.html)
+* **EAI** (October 2006), [Interview with Paul Kuranko (Guggenheim)](http://www.eai.org/resourceguide/exhibition/installation/interview_kuranko.html)
 * **SCART** (February 2009), [Interview with artist David Claerbout](https://www.scart.be/?q=en/content/interview-david-claerbout)
 * **Richard McCoy** (August 2009), [Examining the Lives of Jenny Holzer’s Works/Words: A Discussion with SAAM Conservator Hugh Shockey](http://magazine.art21.org/2009/08/18/examining-the-lives-of-her-words/).
 * **Richard McCoy** (February 2010), [Collaborations in Conserving Time-Based Art: a Conversation and a Colloquium](http://magazine.art21.org/2010/02/16/collaborations-in-conserving-time-based-art-a-conversation-and-a-colloquium/) (interview with Jeff Martin)
@@ -101,6 +125,7 @@ Garden** (March 2010), [Collaborations in Conserving Time-Based Art](https://web
 * **SCART** (May 2010), [Interview with Joanna Phillips (Guggenheim)](https://www.scart.be/?q=en/content/interview-joanna-phillips-guggenheim)
 * **SCART** (June 2011), [Interview with Mark Hellar (Hellar LLC)](https://www.scart.be/?q=en/oe_packed/interview-mark-hellar-hellar-llc)
 * **SCART** (July 2012), [Interview with Baruch Gottlieb, Ruth Kemper and Susanne Bernstein (transmediale)](https://www.scart.be/?q=en/content/interview-baruch-gottlieb-ruth-kemper-and-susanne-bernstein-transmediale)
+* **Moving Image Archive News** (October 2012), [Preserving “Time-Based Art” – An interview with Jeff Martin, IMAP](http://www.movingimagearchivenews.org/preserving-time-based-art-an-interview-with-jeff-martin-imap/)
 * **SCART** (February 2013), [Interview with Bartek Korzeniowski (WRO)](https://www.scart.be/?q=en/content/interview-bartek-korzeniowski-wro)
 * **The Signal** (April 2013), [Challenges in the Curation of Time Based Media Art: An Interview with Michael Mansfield](http://blogs.loc.gov/thesignal/2013/04/challenges-in-the-curation-of-time-based-media-art-an-interview-with-michael-mansfield/)
 * **Solomon R. Guggenheim Museum** (March 2014), [What Is “Time-Based Media”?: A Q&A with Guggenheim Conservator Joanna Phillips, part I](https://www.guggenheim.org/blogs/checklist/what-is-time-based-media-a-q-and-a-with-guggenheim-conservator-joanna-phillips) and [part II](https://www.guggenheim.org/blogs/checklist/analog-to-digital-a-q-and-a-with-guggenheim-conservator-joanna-phillips-part-two)
