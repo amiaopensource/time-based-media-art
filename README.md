@@ -25,7 +25,7 @@ Contributions are welcomed!
 * **European Commission, Culture 2000** (2004-2007), [Inside Installations: Preservation and Presentation of Installation Art. Guidelines for practice.](http://collections.europarchive.org/rce/20120208162011/http://www.inside-installations.org/research/index.php)
 * **Pip Laurenson** (Autumn 2006), [Authenticity, Change and Loss in the Conservation of Time-Based Media Installations](http://www.tate.org.uk/research/publications/tate-papers/06/authenticity-change-and-loss-conservation-of-time-based-media-installations), _Tate Papers_ no.6.
 * **Steve Dietz** (November 2006), [Collecting New Media Art: Just Like Anything Else, Only Different](http://www.neme.org/texts/collecting-new-media-art)
-* **Electronic Arts Intermix** (c. 2007), [EAI Online Resource Guide for Exhibiting, Collecting & Preserving Media Art](http://www.eai.org/resourceguide/home.html)
+* **Electronic Arts Intermix** (c.2007), [EAI Online Resource Guide for Exhibiting, Collecting & Preserving Media Art](http://www.eai.org/resourceguide/home.html)
 * **Richard Rinehart** (April 2007), [The Media Art Notation System: Documenting and Preserving Digital/Media Art](http://www.coyoteyip.com/rinehart/papers_files/leonardo_mans.pdf). _Leonardo_ 40.2, 181-187.
 * **Smithsonian** (May 2010), [Collaborations in Conserving Time-Based Art: A Summary of Discussion Group Sessions of a Colloquium](https://www.si.edu/content/tbma/documents/Time-Based-Art_Report.pdf)
 * **Gaby Wijers** (August 2010), [Ethics and practices of media art conservation, a work-in-progress (version0.5)](https://www.scart.be/?q=en/content/ethics-and-practices-media-art-conservation-work-progress-version05)
