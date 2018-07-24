@@ -18,6 +18,7 @@ Contributions are welcomed!
 
 ### Guidelines and Articles
 
+* **Justin Graham and Jill Sterett** (September 1997), [An Institutional Approach to the Collections Care of Electronic Art](https://cool.conservation-us.org/waac/wn/wn19/wn19-3/wn19-310.html), _WAAC [Western Association for Art Conservation] Newsletter_, 19.3.
 * **William A. Real** (Autumn/Winter 2001), [Toward Guidelines for Practice in the Preservation and Documentation of Technology-Based Installation Art](http://cool.conservation-us.org/jaic/articles/jaic40-03-004_indx.html), _Journal of the American Institute for Conservation (JAIC)_ 40.3, 211-231. ([@ JSTOR](https://www.jstor.org/stable/3179880))
 * **Timothy Vitale** (Autumn/Winter 2001), [Techarchaeology: Works by James Coleman and Vito Acconci](http://cool.conservation-us.org/jaic/articles/jaic40-03-005_indx.html), _JAIC_ 40.3, 233-258. ([@ JSTOR](https://www.jstor.org/stable/3179881))
 * **Pip Laurenson** (Autumn/Winter 2001), [Developing Strategies for the Conservation of Installations Incorporating Time-Based Media with Reference to Gary Hill's "Between Cinema and a Hard Place"](http://cool.conservation-us.org/jaic/articles/jaic40-03-006_indx.html), _JAIC_ 40.3, 259-266. ([@ JSTOR](https://www.jstor.org/stable/3179882))
