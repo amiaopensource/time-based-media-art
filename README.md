@@ -9,7 +9,7 @@ Contributions are welcomed!
 ## Contents
 * [Guidelines and Articles](#guidelines-and-articles)
 * [Case Studies](#case-studies)
-* [Conferences and Symposia](#conferences-and-symposia)
+* [Conferences, Symposia, and Lecture Series](#conferences-symposia-and-lecture-series)
 * [Institutions/Organizations](#institutionsorganizations)
 * [Interviews](#interviews)
 * [Books](#books)
@@ -18,6 +18,7 @@ Contributions are welcomed!
 
 ### Guidelines and Articles
 
+* **Justin Graham and Jill Sterett** (September 1997), [An Institutional Approach to the Collections Care of Electronic Art](https://cool.conservation-us.org/waac/wn/wn19/wn19-3/wn19-310.html), _WAAC [Western Association for Art Conservation] Newsletter_, 19.3.
 * **William A. Real** (Autumn/Winter 2001), [Toward Guidelines for Practice in the Preservation and Documentation of Technology-Based Installation Art](http://cool.conservation-us.org/jaic/articles/jaic40-03-004_indx.html), _Journal of the American Institute for Conservation (JAIC)_ 40.3, 211-231. ([@ JSTOR](https://www.jstor.org/stable/3179880))
 * **Timothy Vitale** (Autumn/Winter 2001), [Techarchaeology: Works by James Coleman and Vito Acconci](http://cool.conservation-us.org/jaic/articles/jaic40-03-005_indx.html), _JAIC_ 40.3, 233-258. ([@ JSTOR](https://www.jstor.org/stable/3179881))
 * **Pip Laurenson** (Autumn/Winter 2001), [Developing Strategies for the Conservation of Installations Incorporating Time-Based Media with Reference to Gary Hill's "Between Cinema and a Hard Place"](http://cool.conservation-us.org/jaic/articles/jaic40-03-006_indx.html), _JAIC_ 40.3, 259-266. ([@ JSTOR](https://www.jstor.org/stable/3179882))
@@ -41,9 +42,9 @@ Contributions are welcomed!
 * **Peggy Griesinger** (November 2015), [Metadata for the Digitization History of Time-based Media Art](http://www.amiaconference.net/wp-content/uploads/2016/01/Grisinger-Peggy.pdf) (poster)
 * **Colin Post** (March 2016), [Research Reflections: Preservation of New Media Artworks in the Care of the Artist](http://artiststudioarchives.org/2016/03/07/research-reflections-preservation-of-new-media-artworks-in-the-care-of-the-artist/)
 * **Peggy Griesinger** (Summer 2016), [Process history metadata for time-based media artworks at the Museum of Modern Art, New York](https://www.henrystewartpublications.com/sites/default/files/Griesinger.pdf)
-* **Pip Laurenson** (September 2016), [Can Artworks Live in a Museums Collection?](https://vimeo.com/184868009) (video of lecture at MoMA)
 * **Solomon R. Guggenheim Museum** (October 2016), [How the Guggenheim and NYU Are Conserving Computer-Based Art, part I](https://www.guggenheim.org/blogs/checklist/how-the-guggenheim-and-nyu-are-conserving-computer-based-art-part-1) and [part II](https://www.guggenheim.org/blogs/checklist/how-the-guggenheim-and-nyu-are-conserving-computer-based-art-part-2)
 * **Colin Post** (2017), [Preservation practices of new media artists: Challenges, strategies, and attitudes in the personal management of artworks](https://doi.org/10.1108/JD-09-2016-0116), _Journal of Documentation_, 73.4, 716-732. (paywalled)
+* **PERICLES** (September 2017), [Things Change: Conservation and Display of Time-based Media Art](https://www.incca.org/news/things-change-conservation-and-display-time-based-media-art) (short documentary on time-based media art preservation)
 * **Hannah Peck** (December 2017), [Video as Art Medium: Context and Preservation](https://www.nyu.edu/tisch/preservation/program/student_work/2017fall/17f_1800_peck_a3_reduced.pdf) (MIAP paper)
 
 ### Case Studies
@@ -72,7 +73,7 @@ Contributions are welcomed!
 * **Ben Fino-Radin** (December 2016), [Art In the Age of Obsolescence: Rescuing an Artwork from Crumbling Technologies](https://stories.moma.org/art-in-the-age-of-obsolescence-1272f1b9b92e)
 * **Joanna Phillips, Deena Engel, Emma Dickson, & Jonathan Farbowitz** (May 2017), [Restoring _Brandon_, Shu Lea Cheang’s Early Web Artwork](https://www.guggenheim.org/blogs/checklist/restoring-brandon-shu-lea-cheangs-early-web-artwork)
 
-### Conferences and symposia
+### Conferences, Symposia, and Lecture Series
 
 * **SFMOMA** (January 2000), [TechArchaeology: A Symposium on Installation Art Preservation](http://cool.conservation-us.org/jaic/articles/jaic40-03-001_indx.html)
 * **Solomon R. Guggenheim Museum** (March 2001), [Preserving the Immaterial: A Conference on Variable Media](http://variablemedia.net/e/preserving/html/var_pre_index.html)
@@ -97,6 +98,7 @@ Garden** (March 2010), [Collaborations in Conserving Time-Based Art](https://web
 * **Tate** (November 2015), [Media in Transition conference recordings](http://www.tate.org.uk/context-comment/video/media-transition)
 * **Ludwig Múzeum** (December 2015), [MAPS - Media Art Preservation Symposium](https://www.youtube.com/playlist?list=PLZCfG2Uw0zEYRknf4G6aPwm5j7PmMw0nI)
 * **German Association of Conservator-Restorers (VDR)** (June 2016), [Collecting and Conserving Performance Art](https://www.restauratoren.de/collecting-and-conserving-performance-art-videos/)
+* **NYU/IFA Conservation Centre** (September-December 2016), [Topics in Time-Based Media Art Conservation lecture series](https://vimeo.com/album/4262969)
 * **Institute of Fine Arts, New York University** (May 2018), [It's About Time! Building A New Discipline: Time-Based Media Art Conservation](https://www.tbmsymposium2018.com/)
 
 ### Institutions/Organizations
