@@ -4,7 +4,7 @@
 
 In the spirit of [analog-inspection](https://github.com/amiaopensource/analog-inspection) and [open-workflows](https://github.com/amiaopensource/open-workflows), **time-based-media-art** collects resources on the care and preservation of time-based media art.  
 
-Contributions are welcomed!
+See below for [project information](#project-info).
 
 ## Contents
 * [Guidelines and Articles](#guidelines-and-articles)
@@ -151,3 +151,28 @@ Garden** (March 2010), [Collaborations in Conserving Time-Based Art](https://web
 * **Noordegraaf, Julia, Vinzenz Hediger, Cosetta Saba, and Barbara Le Maitre**, [_Preserving and Exhibiting Media Art: Challenges and Perspectives_](https://en.aup.nl/books/9789089642912-preserving-and-exhibiting-media-art.html). Amsterdam: Amsterdam University Press, January 2013.
 * **Schubiger, Irene (ed)**, [_Reconstructing Swiss Video Art from the 1970s and 1980s_](http://www.jrp-ringier.com/pages/index.php?id_r=4&id_t=1&id_p=7&id_b=1509). Zürich, Switzerland: JRP|Ringier, September 2009.
 * **Scholte, Tatja, and Glenn Wharton (eds)**, [_Inside Installations. Theory and Practice in the Care of Complex Artworks_](https://issuu.com/incca/docs/inside_installations_theory_and_pra). Amsterdam: Amsterdam University Press, February 2011.
+
+## Project info
+
+**time-based-media-art** is maintained by its creator, [Katherine Nagels](https://github.com/kfrn).
+
+Contributions are welcomed! Feel free to open a pull request or issue, or contact me directly.
+
+### Code of conduct
+
+Actions taken in this repository, associated pull requests and issue tracker forms should adhere to the [Contributor Covenant Code of Conduct](https://www.contributor-covenant.org/version/1/4/code-of-conduct) guidelines.
+
+### Copyright
+
+ <p xmlns:dct="http://purl.org/dc/terms/" xmlns:vcard="http://www.w3.org/2001/vcard-rdf/3.0#">
+  <a rel="license"
+     href="http://creativecommons.org/publicdomain/zero/1.0/">
+    <img src="https://licensebuttons.net/p/zero/1.0/88x31.png" style="border-style: none;" alt="CC0" />
+  </a>
+  <br />
+  To the extent possible under law,
+  <a rel="dct:publisher"
+     href="https://github.com/amiaopensource/time-based-media-art">https://github.com/amiaopensource/time-based-media-art</a>
+  has waived all copyright and related or neighboring rights to
+  <span property="dct:title"><b>time-based-media-art</b></span>.
+</p>
