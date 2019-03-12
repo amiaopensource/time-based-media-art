@@ -9,7 +9,8 @@ See below for [project information](#project-info).
 ## Contents
 * [Guidelines and Articles](#guidelines-and-articles)
 * [Case Studies](#case-studies)
-* [Conferences, Symposia, and Lecture Series](#conferences-symposia-and-lecture-series)
+* [Conferences and Symposia](#conferences-and-symposia)
+* [Lectures](#lectures)
 * [Institutions/Organizations](#institutionsorganizations)
 * [Interviews](#interviews)
 * [Books](#books)
@@ -27,10 +28,11 @@ See below for [project information](#project-info).
 * **Pip Laurenson** (Autumn 2006), [Authenticity, Change and Loss in the Conservation of Time-Based Media Installations](https://www.tate.org.uk/research/publications/tate-papers/06/authenticity-change-and-loss-conservation-of-time-based-media-installations), _Tate Papers_ no.6.
 * **Steve Dietz** (November 2006), [Collecting New Media Art: Just Like Anything Else, Only Different](http://www.neme.org/texts/collecting-new-media-art)
 * **Electronic Arts Intermix** (c.2007), [EAI Online Resource Guide for Exhibiting, Collecting & Preserving Media Art](https://www.eai.org/resourceguide/home.html)
-* **Richard Rinehart** (April 2007), [The Media Art Notation System: Documenting and Preserving Digital/Media Art](http://www.coyoteyip.com/rinehart/papers_files/leonardo_mans.pdf). _Leonardo_ 40.2, 181-187.
+* **Richard Rinehart** (April 2007), [The Media Art Notation System: Documenting and Preserving Digital/Media Art](http://www.coyoteyip.com/rinehart/papers_files/leonardo_mans.pdf), _Leonardo_ 40.2, 181-187.
 * **Smithsonian** (May 2010), [Collaborations in Conserving Time-Based Art: A Summary of Discussion Group Sessions of a Colloquium](https://www.si.edu/content/tbma/documents/Time-Based-Art_Report.pdf)
 * **Gaby Wijers** (August 2010), [Ethics and practices of media art conservation, a work-in-progress (version0.5)](https://www.scart.be/?q=en/content/ethics-and-practices-media-art-conservation-work-progress-version05)
 * **Dragan Espenschied _et al._** (September 2013), [Large-Scale Curation and Presentation of CD-ROM Art](http://purl.pt/24107/1/iPres2013_PDF/Large-Scale%20Curation%20and%20Presentation%20of%20CD-ROM%20Art.pdf)
+* **Hanna Barbara Hölling** (2014), [Seeking the authentic moment: De- and re-materialisations in Paik’s video and multimedia installations](http://www.hannahoelling.com/wp-content/uploads/2016/10/Seeking_AICCM-Bulletin-v34-book-holling.pdf), _AICCM Bulletin_ 34, 85-92.
 * **Erica Titkemeyer** (February 2014), [Handling Digital Assets in Time-Based Media Art](https://siarchives.si.edu/blog/handling-digital-assets-time-based-media-art)
 * **Smithsonian** (July 2014), [The Smithsonian Interview Project: Questions on Technical Standards in the Care of Time-Based and Digital Art. Ten Insights from Artists and Experts in the Field](https://www.si.edu/content/tbma/documents/SI_TBMA_10_Insights.pdf)
 * **Patrícia Falcão _et al._** (October 2014), [Virtualisation as a Tool for the Conservation of Software-Based Artworks](http://pericles-project.eu/uploads/PERICLES_iPRES_Virtualisation-Paper_Oct14_TATE.pdf)
@@ -73,7 +75,7 @@ See below for [project information](#project-info).
 * **Ben Fino-Radin** (December 2016), [Art In the Age of Obsolescence: Rescuing an Artwork from Crumbling Technologies](https://stories.moma.org/art-in-the-age-of-obsolescence-1272f1b9b92e)
 * **Joanna Phillips, Deena Engel, Emma Dickson, & Jonathan Farbowitz** (May 2017), [Restoring _Brandon_, Shu Lea Cheang’s Early Web Artwork](https://www.guggenheim.org/blogs/checklist/restoring-brandon-shu-lea-cheangs-early-web-artwork)
 
-### Conferences, Symposia, and Lecture Series
+### Conferences and Symposia
 
 * **SFMOMA** (January 2000), [TechArchaeology: A Symposium on Installation Art Preservation](https://cool.conservation-us.org/jaic/articles/jaic40-03-001_indx.html)
 * **Solomon R. Guggenheim Museum** (March 2001), [Preserving the Immaterial: A Conference on Variable Media](http://variablemedia.net/e/preserving/html/var_pre_index.html)
@@ -98,8 +100,14 @@ Garden** (March 2010), [Collaborations in Conserving Time-Based Art](https://web
 * **Tate** (November 2015), [Media in Transition conference recordings](https://www.tate.org.uk/context-comment/video/media-transition)
 * **Ludwig Múzeum** (December 2015), [MAPS - Media Art Preservation Symposium](https://www.youtube.com/playlist?list=PLZCfG2Uw0zEYRknf4G6aPwm5j7PmMw0nI)
 * **German Association of Conservator-Restorers (VDR)** (June 2016), [Collecting and Conserving Performance Art](https://www.restauratoren.de/collecting-and-conserving-performance-art-videos/)
-* **NYU/IFA Conservation Centre** (September-December 2016), [Topics in Time-Based Media Art Conservation lecture series](https://vimeo.com/album/4262969)
 * **Institute of Fine Arts, New York University** (May 2018), [It's About Time! Building A New Discipline: Time-Based Media Art Conservation](https://www.tbmsymposium2018.com/)
+* **The Japan Foundation and Art Tower Mito** (November 2018), [Play ⇔ Replay: staging & re-staging time-based media art](https://www.jpf.go.jp/e/project/culture/exhibit/exchange/2018/09-01.html)
+
+### Lectures
+
+* **MoMA** (September 2016), [Pip Laurenson, “Can Artworks Live in a Museums Collection?”](https://vimeo.com/184868009) (Vimeo)
+* **NYU/IFA Conservation Centre** (September-December 2016), [Topics in Time-Based Media Art Conservation lecture series](https://vimeo.com/album/4262969) (Vimeo)
+* **Harvard Art Museums** (July 2018), [Perspectives on New Media in Museums with Kate Lewis](https://vimeo.com/harvardartmuseums/review/295417569/a04116c6f8) (Vimeo)
 
 ### Institutions/Organizations
 
