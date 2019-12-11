@@ -155,8 +155,9 @@ Garden** (March 2010), [Collaborations in Conserving Time-Based Art](https://web
 
 ### Books
 
-* **Depocas, Alain, Jon Ippolito, & Caitlin Jones (eds).** [_Permanence Through Change: The Variable Media Approach_](http://www.variablemedia.net/pdf/Permanence.pdf). New York: The Solomon R. Guggenheim Foundation; Montréal: The Daniel Langlois Foundation for Art, Science, and Technology, 2003.
+* **Depocas, Alain, Jon Ippolito, & Caitlin Jones (eds)**, [_Permanence Through Change: The Variable Media Approach_](http://www.variablemedia.net/pdf/Permanence.pdf). New York: The Solomon R. Guggenheim Foundation; Montréal: The Daniel Langlois Foundation for Art, Science, and Technology, 2003.
 * **Gfeller, Johannes, Agathe Jarczyk, and Joanna Phillips**, [_Compendium of Image Errors in Analogue Video / Kompendium der Bildstörungen beim analogen Video_](https://press.uchicago.edu/ucp/books/book/distributed/C/bo16943593.html). Zürich, Switzerland: Scheidegger and Spiess, August 2013.
+* **Grau, Oliver, Janina Hoth and Eveline Wandl-Vogt (eds)**, [_Digital Art through the Looking Glass: New strategies for archiving, collecting and preserving in Digital Humanities_](https://web.archive.org/web/20191022165058/https://www.donau-uni.ac.at/dam/jcr:a29638aa-f334-4abb-9601-10e36652d09f/Digital_Art_through_the_Looking_Glass_updated.pdf). Krems, Österreich: Edition Donau-Universität, 2019.
 * **High, Kathy, Sherry Miller Hocking, and Mona Jimenez**, [_The Emergence of Video Processing Tools: Television Becoming Unglued_](https://www.intellectbooks.co.uk/books/view-Book,id=4995/). Bristol, UK: Intellect Books, April 2014.
 * **Noordegraaf, Julia, Vinzenz Hediger, Cosetta Saba, and Barbara Le Maitre**, [_Preserving and Exhibiting Media Art: Challenges and Perspectives_](https://en.aup.nl/books/9789089642912-preserving-and-exhibiting-media-art.html). Amsterdam: Amsterdam University Press, January 2013.
 * **Schubiger, Irene (ed)**, [_Reconstructing Swiss Video Art from the 1970s and 1980s_](http://www.jrp-ringier.com/pages/index.php?id_r=4&id_t=1&id_p=7&id_b=1509). Zürich, Switzerland: JRP|Ringier, September 2009.
