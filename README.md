@@ -79,6 +79,7 @@ See below for [project information](#project-info).
 
 ### Conferences and Symposia
 
+* [**ISEA (International Symposium on Electronic Art)**](http://www.isea-web.org/symposia/past-isea-symposia/), 1988 - present
 * **SFMOMA** (January 2000), [TechArchaeology: A Symposium on Installation Art Preservation](https://cool.conservation-us.org/jaic/articles/jaic40-03-001_indx.html)
 * **Solomon R. Guggenheim Museum** (March 2001), [Preserving the Immaterial: A Conference on Variable Media](http://variablemedia.net/e/preserving/html/var_pre_index.html)
 * **Experimental Television Center (ETC), Independent Media Arts Preservation (IMAP), Bay Area Video Coalition and the Electronic Media Specialty Group of the AIC** (May-June 2002), [Looking Back/Looking Forward: A Symposium on Electronic Media Preservation](http://www.experimentaltvcenter.org/looking-backlooking-forward)
