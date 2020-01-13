@@ -105,6 +105,7 @@ Garden** (March 2010), [Collaborations in Conserving Time-Based Art](https://web
 * **German Association of Conservator-Restorers (VDR)** (June 2016), [Collecting and Conserving Performance Art](https://www.restauratoren.de/collecting-and-conserving-performance-art-videos/)
 * **Institute of Fine Arts, New York University** (May 2018), [It's About Time! Building A New Discipline: Time-Based Media Art Conservation](https://www.tbmsymposium2018.com/)
 * **The Japan Foundation and Art Tower Mito** (November 2018), [Play ⇔ Replay: staging & re-staging time-based media art](https://www.jpf.go.jp/e/project/culture/exhibit/exchange/2018/09-01.html)
+* **LACMA (Los Angeles County Museum of Art)** (25-26 April 2020), [All Together Now: Time-Based Media Art and Collaborative Stewardship](https://www.lacma.org/events/all-together-now)
 
 ### Lectures
 
