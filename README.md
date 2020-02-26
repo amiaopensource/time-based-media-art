@@ -76,6 +76,8 @@ See below for [project information](#project-info).
 * **Eddy Colloton** (May 2016), [Re-constructions: Preserving the Video Installations of Buky Schwartz](https://www.nyu.edu/tisch/preservation/program/student_work/2016spring/16s_3490_Colloton_Thesis.pdf) (MIAP thesis)
 * **Ben Fino-Radin** (December 2016), [Art In the Age of Obsolescence: Rescuing an Artwork from Crumbling Technologies](https://stories.moma.org/art-in-the-age-of-obsolescence-1272f1b9b92e)
 * **Joanna Phillips, Deena Engel, Emma Dickson, & Jonathan Farbowitz** (May 2017), [Restoring _Brandon_, Shu Lea Cheang’s Early Web Artwork](https://www.guggenheim.org/blogs/checklist/restoring-brandon-shu-lea-cheangs-early-web-artwork)
+* **Elise Tanner** (July 2018), [Planning for Time-based Media Preservation at the Philadelphia Museum of Art](http://ndsr-pma.arlisna.org/wp-content/uploads/2018/08/Tanner-NDSR-Art-Final-Report.pdf) (NDSR Art Final Report)
+* **Erin L. Barsan** (c. August 2018), [Managing time-based media/digital art at (an appropriate) scale](http://ndsr-pma.arlisna.org/wp-content/uploads/2018/08/Barsan-NDSR-Art-Final-Report-1.pdf) (NDSR Art Final Report)
 
 ### Conferences, Symposia, and Workshops
 
