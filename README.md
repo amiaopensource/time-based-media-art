@@ -9,7 +9,7 @@ See below for [project information](#project-info).
 ## Contents
 * [Guidelines and Articles](#guidelines-and-articles)
 * [Case Studies](#case-studies)
-* [Conferences and Symposia](#conferences-and-symposia)
+* [Conferences, Symposia, and Workshops](#conferences-symposia-and-workshops)
 * [Lectures](#lectures)
 * [Institutions/Organizations](#institutionsorganizations)
 * [Interviews](#interviews)
@@ -77,7 +77,7 @@ See below for [project information](#project-info).
 * **Ben Fino-Radin** (December 2016), [Art In the Age of Obsolescence: Rescuing an Artwork from Crumbling Technologies](https://stories.moma.org/art-in-the-age-of-obsolescence-1272f1b9b92e)
 * **Joanna Phillips, Deena Engel, Emma Dickson, & Jonathan Farbowitz** (May 2017), [Restoring _Brandon_, Shu Lea Cheang’s Early Web Artwork](https://www.guggenheim.org/blogs/checklist/restoring-brandon-shu-lea-cheangs-early-web-artwork)
 
-### Conferences and Symposia
+### Conferences, Symposia, and Workshops
 
 * [**ISEA (International Symposium on Electronic Art)**](http://www.isea-web.org/symposia/past-isea-symposia/), 1988 - present
 * **SFMOMA** (January 2000), [TechArchaeology: A Symposium on Installation Art Preservation](https://cool.conservation-us.org/jaic/articles/jaic40-03-001_indx.html)
@@ -106,6 +106,7 @@ Garden** (March 2010), [Collaborations in Conserving Time-Based Art](https://web
 * **Institute of Fine Arts, New York University** (May 2018), [It's About Time! Building A New Discipline: Time-Based Media Art Conservation](https://www.tbmsymposium2018.com/)
 * **The Japan Foundation and Art Tower Mito** (November 2018), [Play ⇔ Replay: staging & re-staging time-based media art](https://www.jpf.go.jp/e/project/culture/exhibit/exchange/2018/09-01.html)
 * **LACMA (Los Angeles County Museum of Art)** (25-26 April 2020), [All Together Now: Time-Based Media Art and Collaborative Stewardship](https://www.lacma.org/events/all-together-now)
+* **Donau-Universität Krems** (June 2020), [Media Art Preservation Institute: 5-day Intensive Professional Training](https://www.donau-uni.ac.at/en/university/faculties/education-arts-architecture/departments/image-science/news---events/events/mah-pres-inst.html)
 
 ### Lectures
 
