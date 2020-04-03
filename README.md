@@ -49,8 +49,8 @@ See below for [project information](#project-info).
 * **Colin Post** (2017), [Preservation practices of new media artists: Challenges, strategies, and attitudes in the personal management of artworks](https://doi.org/10.1108/JD-09-2016-0116), _Journal of Documentation_, 73.4, 716-732. (paywalled)
 * **PERICLES** (September 2017), [Things Change: Conservation and Display of Time-based Media Art](https://www.incca.org/news/things-change-conservation-and-display-time-based-media-art) (short documentary on time-based media art preservation)
 * **Hannah Peck** (December 2017), [Video as Art Medium: Context and Preservation](https://www.nyu.edu/tisch/preservation/program/student_work/2017fall/17f_1800_peck_a3_reduced.pdf) (MIAP paper)
-* **Rachel Ward** (May 2019), [“When time-based media art in private collections no longer functions, who is responsible for conservation?”](http://ndsr-pma.arlisna.org/2019/05/29/when-time-based-media-art-in-private-collections-no-longer-functions-who-is-responsible-for-conservation/)
 * **Jonathan Farbowitz** (2018), [Archiving Computer-Based Artworks](http://resources.culturalheritage.org/emg-review/volume-5-2017-2018/farbowitz/)
+* **Rachel Ward** (May 2019), [“When time-based media art in private collections no longer functions, who is responsible for conservation?”](http://ndsr-pma.arlisna.org/2019/05/29/when-time-based-media-art-in-private-collections-no-longer-functions-who-is-responsible-for-conservation/)
 * **Solomon R. Guggenheim Museum** (2020), [The Conserving Computer-Based Art Initiative](https://www.guggenheim.org/conservation/the-conserving-computer-based-art-initiative)
 
 ### Case Studies
