@@ -51,7 +51,6 @@ See below for [project information](#project-info).
 * **Hannah Peck** (December 2017), [Video as Art Medium: Context and Preservation](https://www.nyu.edu/tisch/preservation/program/student_work/2017fall/17f_1800_peck_a3_reduced.pdf) (MIAP paper)
 * **Jonathan Farbowitz** (2018), [Archiving Computer-Based Artworks](http://resources.culturalheritage.org/emg-review/volume-5-2017-2018/farbowitz/), _The Electronic Media Review_ 5 
 * **Rachel Ward** (May 2019), [“When time-based media art in private collections no longer functions, who is responsible for conservation?”](http://ndsr-pma.arlisna.org/2019/05/29/when-time-based-media-art-in-private-collections-no-longer-functions-who-is-responsible-for-conservation/)
-* **Solomon R. Guggenheim Museum** (2020), [The Conserving Computer-Based Art Initiative](https://www.guggenheim.org/conservation/the-conserving-computer-based-art-initiative)
 
 ### Case Studies
 
@@ -129,6 +128,7 @@ Garden** (March 2010), [Collaborations in Conserving Time-Based Art](https://web
 * [**Independent Media Arts Preservation, Inc**](https://web.archive.org/web/20170912202537/http://imappreserve.org/) (IMAP)
 * **LIMA**, [Preserving Digital Art](https://www.li-ma.nl/site/preservation)
 * **Solomon R. Guggenheim Museum**, [Conservation: Time-Based Media](https://www.guggenheim.org/conservation/time-based-media)
+* **Solomon R. Guggenheim Museum** (2020), [The Conserving Computer-Based Art Initiative](https://www.guggenheim.org/conservation/the-conserving-computer-based-art-initiative)
 * **De Stichting Behoud Moderne Kunst (SMBK)**, [The Foundation for the Conservation of Contemporary Art](https://www.sbmk.nl/en/)
 * **Tate**, [Conservation – time-based media](https://www.tate.org.uk/about/our-work/conservation/time-based-media)
 * [**Variable Media Network**](http://www.variablemedia.net/e/welcome.html)
