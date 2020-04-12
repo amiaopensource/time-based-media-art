@@ -49,6 +49,7 @@ See below for [project information](#project-info).
 * **Colin Post** (2017), [Preservation practices of new media artists: Challenges, strategies, and attitudes in the personal management of artworks](https://doi.org/10.1108/JD-09-2016-0116), _Journal of Documentation_, 73.4, 716-732. (paywalled)
 * **PERICLES** (September 2017), [Things Change: Conservation and Display of Time-based Media Art](https://www.incca.org/news/things-change-conservation-and-display-time-based-media-art) (short documentary on time-based media art preservation)
 * **Hannah Peck** (December 2017), [Video as Art Medium: Context and Preservation](https://www.nyu.edu/tisch/preservation/program/student_work/2017fall/17f_1800_peck_a3_reduced.pdf) (MIAP paper)
+* **Jonathan Farbowitz** (2018), [Archiving Computer-Based Artworks](http://resources.culturalheritage.org/emg-review/volume-5-2017-2018/farbowitz/), _The Electronic Media Review_ 5 
 * **Rachel Ward** (May 2019), [“When time-based media art in private collections no longer functions, who is responsible for conservation?”](http://ndsr-pma.arlisna.org/2019/05/29/when-time-based-media-art-in-private-collections-no-longer-functions-who-is-responsible-for-conservation/)
 
 ### Case Studies
@@ -116,6 +117,7 @@ Garden** (March 2010), [Collaborations in Conserving Time-Based Art](https://web
 * **MoMA** (September 2016), [Pip Laurenson, “Can Artworks Live in a Museums Collection?”](https://vimeo.com/184868009) (Vimeo)
 * **NYU/IFA Conservation Centre** (September-December 2016), [Topics in Time-Based Media Art Conservation lecture series](https://vimeo.com/album/4262969) (Vimeo)
 * **Harvard Art Museums** (July 2018), [Perspectives on New Media in Museums with Kate Lewis](https://vimeo.com/harvardartmuseums/review/295417569/a04116c6f8) (Vimeo)
+* **MoMA Media Conservation Initiative** (2017-2018), [Getting Started in Media Conservation](https://www.mediaconservation.io/resources#table-of-content)
 
 ### Institutions/Organizations
 
@@ -126,6 +128,7 @@ Garden** (March 2010), [Collaborations in Conserving Time-Based Art](https://web
 * [**Independent Media Arts Preservation, Inc**](https://web.archive.org/web/20170912202537/http://imappreserve.org/) (IMAP)
 * **LIMA**, [Preserving Digital Art](https://www.li-ma.nl/site/preservation)
 * **Solomon R. Guggenheim Museum**, [Conservation: Time-Based Media](https://www.guggenheim.org/conservation/time-based-media)
+* **Solomon R. Guggenheim Museum** (2020), [The Conserving Computer-Based Art Initiative](https://www.guggenheim.org/conservation/the-conserving-computer-based-art-initiative)
 * **De Stichting Behoud Moderne Kunst (SMBK)**, [The Foundation for the Conservation of Contemporary Art](https://www.sbmk.nl/en/)
 * **Tate**, [Conservation – time-based media](https://www.tate.org.uk/about/our-work/conservation/time-based-media)
 * [**Variable Media Network**](http://www.variablemedia.net/e/welcome.html)
