@@ -2,7 +2,7 @@
 
 # Time-based media art resources
 
-In the spirit of [analog-inspection](https://github.com/amiaopensource/analog-inspection) and [open-workflows](https://github.com/amiaopensource/open-workflows), **time-based-media-art** collects resources on the care and preservation of time-based media art.  
+In the spirit of [analog-inspection](https://github.com/amiaopensource/analog-inspection) and [open-workflows](https://github.com/amiaopensource/open-workflows), **time-based-media-art** collects resources on the care and preservation of time-based media art.
 
 See below for [project information](#project-info).
 
@@ -49,7 +49,7 @@ See below for [project information](#project-info).
 * **Colin Post** (2017), [Preservation practices of new media artists: Challenges, strategies, and attitudes in the personal management of artworks](https://doi.org/10.1108/JD-09-2016-0116), _Journal of Documentation_, 73.4, 716-732. (paywalled)
 * **PERICLES** (September 2017), [Things Change: Conservation and Display of Time-based Media Art](https://www.incca.org/news/things-change-conservation-and-display-time-based-media-art) (short documentary on time-based media art preservation)
 * **Hannah Peck** (December 2017), [Video as Art Medium: Context and Preservation](https://www.nyu.edu/tisch/preservation/program/student_work/2017fall/17f_1800_peck_a3_reduced.pdf) (MIAP paper)
-* **Jonathan Farbowitz** (2018), [Archiving Computer-Based Artworks](http://resources.culturalheritage.org/emg-review/volume-5-2017-2018/farbowitz/), _The Electronic Media Review_ 5 
+* **Jonathan Farbowitz** (2018), [Archiving Computer-Based Artworks](http://resources.culturalheritage.org/emg-review/volume-5-2017-2018/farbowitz/), _The Electronic Media Review_ 5
 * **Rachel Ward** (May 2019), [“When time-based media art in private collections no longer functions, who is responsible for conservation?”](http://ndsr-pma.arlisna.org/2019/05/29/when-time-based-media-art-in-private-collections-no-longer-functions-who-is-responsible-for-conservation/)
 
 ### Case Studies
@@ -108,6 +108,7 @@ Garden** (March 2010), [Collaborations in Conserving Time-Based Art](https://web
 * **German Association of Conservator-Restorers (VDR)** (June 2016), [Collecting and Conserving Performance Art](https://www.restauratoren.de/collecting-and-conserving-performance-art-videos/)
 * **Institute of Fine Arts, New York University** (May 2018), [It's About Time! Building A New Discipline: Time-Based Media Art Conservation](https://www.tbmsymposium2018.com/)
 * **The Japan Foundation and Art Tower Mito** (November 2018), [Play ⇔ Replay: staging & re-staging time-based media art](https://www.jpf.go.jp/e/project/culture/exhibit/exchange/2018/09-01.html)
+* **Museum of Modern Art (MoMA)** (10-14 June 2019), [Workshop 3: Caring for Artists' Films](https://www.mediaconservation.io/film)
 * **LACMA (Los Angeles County Museum of Art)** (25-26 April 2020), [All Together Now: Time-Based Media Art and Collaborative Stewardship](https://www.lacma.org/events/all-together-now)
 * **Donau-Universität Krems** (June 2020), [Media Art Preservation Institute: 5-day Intensive Professional Training](https://www.donau-uni.ac.at/en/university/faculties/education-arts-architecture/departments/image-science/news---events/events/mah-pres-inst.html)
 * **ISEA 2020, University of Québec** (May 2020), [Summit on new media art archiving](http://isea2020.isea-international.org/preliminary-programming/)
