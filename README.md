@@ -51,6 +51,7 @@ See below for [project information](#project-info).
 * **Hannah Peck** (December 2017), [Video as Art Medium: Context and Preservation](https://www.nyu.edu/tisch/preservation/program/student_work/2017fall/17f_1800_peck_a3_reduced.pdf) (MIAP paper)
 * **Jonathan Farbowitz** (2018), [Archiving Computer-Based Artworks](http://resources.culturalheritage.org/emg-review/volume-5-2017-2018/farbowitz/), _The Electronic Media Review_ 5
 * **Rachel Ward** (May 2019), [“When time-based media art in private collections no longer functions, who is responsible for conservation?”](http://ndsr-pma.arlisna.org/2019/05/29/when-time-based-media-art-in-private-collections-no-longer-functions-who-is-responsible-for-conservation/)
+* **Madeline Page Smith** (July 2020), [Caring for the Moving Image in Art Museums: _Matters in Media Art_ and the Stewardship of Time-Based Media Artworks](https://www.nyu.edu/tisch/preservation/program/student_work/2020spring/20s_thesis_Smith_deposit_copy.pdf) (MIAP thesis)
 
 ### Case Studies
 
