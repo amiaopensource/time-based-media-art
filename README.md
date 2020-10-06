@@ -110,8 +110,8 @@ Garden** (March 2010), [Collaborations in Conserving Time-Based Art](https://web
 * **The Japan Foundation and Art Tower Mito** (November 2018), [Play ⇔ Replay: staging & re-staging time-based media art](https://www.jpf.go.jp/e/project/culture/exhibit/exchange/2018/09-01.html)
 * **Museum of Modern Art (MoMA)** (10-14 June 2019), [Workshop 3: Caring for Artists' Films](https://www.mediaconservation.io/film)
 * **LACMA (Los Angeles County Museum of Art)** (25-26 April 2020), [All Together Now: Time-Based Media Art and Collaborative Stewardship](https://www.lacma.org/events/all-together-now)
-* **Donau-Universität Krems** (June 2020), [Media Art Preservation Institute: 5-day Intensive Professional Training](https://www.donau-uni.ac.at/en/university/faculties/education-arts-architecture/departments/image-science/news---events/events/mah-pres-inst.html)
 * **ISEA 2020, University of Québec** (May 2020), [Summit on new media art archiving](http://isea2020.isea-international.org/preliminary-programming/)
+* **Donau-Universität Krems** (December 2020), [Media Art Preservation Institute: 5-day Intensive Professional Training](https://www.donau-uni.ac.at/en/university/faculties/education-arts-architecture/departments/image-science/news---events/events/mah-pres-inst.html)
 
 ### Lectures
 
