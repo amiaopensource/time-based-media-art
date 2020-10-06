@@ -51,6 +51,7 @@ See below for [project information](#project-info).
 * **Hannah Peck** (December 2017), [Video as Art Medium: Context and Preservation](https://www.nyu.edu/tisch/preservation/program/student_work/2017fall/17f_1800_peck_a3_reduced.pdf) (MIAP paper)
 * **Jonathan Farbowitz** (2018), [Archiving Computer-Based Artworks](http://resources.culturalheritage.org/emg-review/volume-5-2017-2018/farbowitz/), _The Electronic Media Review_ 5
 * **Rachel Ward** (May 2019), [“When time-based media art in private collections no longer functions, who is responsible for conservation?”](http://ndsr-pma.arlisna.org/2019/05/29/when-time-based-media-art-in-private-collections-no-longer-functions-who-is-responsible-for-conservation/)
+* **Madeline Page Smith** (July 2020), [Caring for the Moving Image in Art Museums: _Matters in Media Art_ and the Stewardship of Time-Based Media Artworks](https://www.nyu.edu/tisch/preservation/program/student_work/2020spring/20s_thesis_Smith_deposit_copy.pdf) (MIAP thesis)
 
 ### Case Studies
 
@@ -110,8 +111,8 @@ Garden** (March 2010), [Collaborations in Conserving Time-Based Art](https://web
 * **The Japan Foundation and Art Tower Mito** (November 2018), [Play ⇔ Replay: staging & re-staging time-based media art](https://www.jpf.go.jp/e/project/culture/exhibit/exchange/2018/09-01.html)
 * **Museum of Modern Art (MoMA)** (10-14 June 2019), [Workshop 3: Caring for Artists' Films](https://www.mediaconservation.io/film)
 * **LACMA (Los Angeles County Museum of Art)** (25-26 April 2020), [All Together Now: Time-Based Media Art and Collaborative Stewardship](https://www.lacma.org/events/all-together-now)
-* **Donau-Universität Krems** (June 2020), [Media Art Preservation Institute: 5-day Intensive Professional Training](https://www.donau-uni.ac.at/en/university/faculties/education-arts-architecture/departments/image-science/news---events/events/mah-pres-inst.html)
 * **ISEA 2020, University of Québec** (May 2020), [Summit on new media art archiving](http://isea2020.isea-international.org/preliminary-programming/)
+* **Donau-Universität Krems** (December 2020), [Media Art Preservation Institute: 5-day Intensive Professional Training](https://www.donau-uni.ac.at/en/university/faculties/education-arts-architecture/departments/image-science/news---events/events/mah-pres-inst.html)
 
 ### Lectures
 
