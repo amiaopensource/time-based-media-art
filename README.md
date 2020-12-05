@@ -108,6 +108,7 @@ Garden** (March 2010), [Collaborations in Conserving Time-Based Art](https://web
 * **Ludwig Múzeum** (December 2015), [MAPS - Media Art Preservation Symposium](https://www.youtube.com/playlist?list=PLZCfG2Uw0zEYRknf4G6aPwm5j7PmMw0nI)
 * **German Association of Conservator-Restorers (VDR)** (June 2016), [Collecting and Conserving Performance Art](https://www.restauratoren.de/collecting-and-conserving-performance-art-videos/)
 * **Institute of Fine Arts, New York University** (May 2018), [It's About Time! Building A New Discipline: Time-Based Media Art Conservation](https://www.tbmsymposium2018.com/)
+* **Museum of Modern Art (MoMA)** (11-15 June 2018), [Workshop 2: Getting Started: A Shared Responsibility - Caring for Time-based Media Artworks in Collections](https://www.mediaconservation.io/getting-started)
 * **The Japan Foundation and Art Tower Mito** (November 2018), [Play ⇔ Replay: staging & re-staging time-based media art](https://www.jpf.go.jp/e/project/culture/exhibit/exchange/2018/09-01.html)
 * **Museum of Modern Art (MoMA)** (10-14 June 2019), [Workshop 3: Caring for Artists' Films](https://www.mediaconservation.io/film)
 * **LACMA (Los Angeles County Museum of Art)** (25-26 April 2020), [All Together Now: Time-Based Media Art and Collaborative Stewardship](https://www.lacma.org/events/all-together-now)
@@ -166,6 +167,7 @@ Garden** (March 2010), [Collaborations in Conserving Time-Based Art](https://web
 
 ### Books
 
+* **Dekker, Annet**, [_Collecting and Conserving Net Art: Moving beyond Conventional Methods_](https://www.routledge.com/Collecting-and-Conserving-Net-Art-Moving-beyond-Conventional-Methods/Dekker/p/book/9780367491420). London and New York: Routledge, Taylor & Francis Group, August 2020.
 * **Depocas, Alain, Jon Ippolito, & Caitlin Jones (eds)**, [_Permanence Through Change: The Variable Media Approach_](http://www.variablemedia.net/pdf/Permanence.pdf). New York: The Solomon R. Guggenheim Foundation; Montréal: The Daniel Langlois Foundation for Art, Science, and Technology, 2003.
 * **Gfeller, Johannes, Agathe Jarczyk, and Joanna Phillips**, [_Compendium of Image Errors in Analogue Video / Kompendium der Bildstörungen beim analogen Video_](https://press.uchicago.edu/ucp/books/book/distributed/C/bo16943593.html). Zürich, Switzerland: Scheidegger and Spiess, August 2013.
 * **Grau, Oliver, Janina Hoth and Eveline Wandl-Vogt (eds)**, [_Digital Art through the Looking Glass: New strategies for archiving, collecting and preserving in Digital Humanities_](https://web.archive.org/web/20191022165058/https://www.donau-uni.ac.at/dam/jcr:a29638aa-f334-4abb-9601-10e36652d09f/Digital_Art_through_the_Looking_Glass_updated.pdf). Krems, Österreich: Edition Donau-Universität, 2019.
