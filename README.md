@@ -53,6 +53,7 @@ See below for [project information](#project-info).
 * **Rachel Ward** (May 2019), [“When time-based media art in private collections no longer functions, who is responsible for conservation?”](http://ndsr-pma.arlisna.org/2019/05/29/when-time-based-media-art-in-private-collections-no-longer-functions-who-is-responsible-for-conservation/)
 * **Madeline Page Smith** (July 2020), [Caring for the Moving Image in Art Museums: _Matters in Media Art_ and the Stewardship of Time-Based Media Artworks](https://www.nyu.edu/tisch/preservation/program/student_work/2020spring/20s_thesis_Smith_deposit_copy.pdf) (MIAP thesis)
 * **Rene G. Cepeda** (December 2020), [Manual for the Curation and Display of Interactive New Media Art](https://inmamanual.wordpress.com/)
+* **Tate** (April 2021), [Software-based Art Preservation](https://www.tate.org.uk/about-us/projects/software-based-art-preservation)
 
 ### Case Studies
 
