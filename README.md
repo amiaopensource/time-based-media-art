@@ -116,6 +116,7 @@ Garden** (March 2010), [Collaborations in Conserving Time-Based Art](https://web
 * **LACMA (Los Angeles County Museum of Art)** (25-26 April 2020), [All Together Now: Time-Based Media Art and Collaborative Stewardship](https://www.lacma.org/events/all-together-now)
 * **ISEA 2020, University of Québec** (May 2020), [Summit on new media art archiving](http://isea2020.isea-international.org/preliminary-programming/)
 * **Donau-Universität Krems** (December 2020), [Media Art Preservation Institute: 5-day Intensive Professional Training](https://www.donau-uni.ac.at/en/university/faculties/education-arts-architecture/departments/image-science/news---events/events/mah-pres-inst.html)
+* **American Institute for Conservation (AIC) and Foundation for Advancement in Conservation (FAiC)** (25/27/29 October 2021), [TechFocus IV: Caring for 3D-printed Art](https://learning.culturalheritage.org/p/techfocus-iv) (virtual symposium)
 
 ### Lectures
 
