@@ -120,10 +120,10 @@ Garden** (March 2010), [Collaborations in Conserving Time-Based Art](https://web
 
 ### Lectures
 
-* **MoMA** (September 2016), [Pip Laurenson, “Can Artworks Live in a Museums Collection?”](https://vimeo.com/184868009) (Vimeo)
-* **NYU/IFA Conservation Centre** (September-December 2016), [Topics in Time-Based Media Art Conservation lecture series](https://vimeo.com/album/4262969) (Vimeo)
 * **Harvard Art Museums** (July 2018), [Perspectives on New Media in Museums with Kate Lewis](https://vimeo.com/harvardartmuseums/review/295417569/a04116c6f8) (Vimeo)
 * **MoMA Media Conservation Initiative** (2017-2018), [Getting Started in Media Conservation](https://www.mediaconservation.io/resources#table-of-content)
+* **NYU/IFA Conservation Centre** (September-December 2016), [Topics in Time-Based Media Art Conservation lecture series](https://vimeo.com/album/4262969) (Vimeo)
+* **MoMA** (September 2016), [Pip Laurenson, “Can Artworks Live in a Museums Collection?”](https://vimeo.com/184868009) (Vimeo)
 
 ### Institutions/Organizations
 
